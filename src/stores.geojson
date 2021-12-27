@@ -2,7 +2,7 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [125.6, 10.1]
+    "coordinates": [47.71545165824041, -116.93639447182161]
   },
   "properties": {
     "name": "Super 1 Foods",
@@ -11,3 +11,4 @@
 	"link": "//https://www.super1foods.net/"
   }
 }
+
