@@ -1,2 +1,2 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"Name":"Super 1 Foods"},"geometry":{"type":"Point","coordinates":[243.0635941028595,47.7156232755452]}, "id":"1"}},{"type":"Feature","properties":{"Name":"Super 1 Foods"},"geometry":{"type":"Point","coordinates":[243.21024388074872,47.75754574886673]},"id":"2"}]}
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"Name":"Super 1 Foods"},"geometry":{"type":"Point","coordinates":[243.0635941028595,47.7156232755452]}, "id":"1"},{"type":"Feature","properties":{"Name":"Super 1 Foods"},"geometry":{"type":"Point","coordinates":[243.21024388074872,47.75754574886673]},"id":"2"}]}
 
