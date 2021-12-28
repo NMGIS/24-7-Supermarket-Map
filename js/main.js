@@ -86,7 +86,7 @@ require([
 
     const geojsonlayer = new GeoJSONLayer({
         url: url,
-        copyright: "NO-ONE",
+        copyright: "",
         popupTemplate: template,
         renderer: uvrRenderer
     });

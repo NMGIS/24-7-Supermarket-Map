@@ -16,6 +16,69 @@
     },
     {
         "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Lancaster","addr:state":"CA","addr:postcode":93534,"addr:housenumber":740,"addr:street":"W K4 AVE","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-118.14532095579769,34.672032450498065]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Tulsa","addr:state":"OK","addr:postcode":74133,"addr:housenumber":7130,"addr:street":"S Memorial Dr E","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-95.88926249870498,36.05949758756319]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Midwest City","addr:state":"OK","addr:postcode":73110,"addr:housenumber":7601,"addr:street":"E Reno Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-97.39142933119247,35.46520002320465]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Oklahoma City","addr:state":"OK","addr:postcode":73112,"addr:housenumber":3535,"addr:street":"NW 39th St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-97.57986715679793,35.5124710319742]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Moore","addr:state":"OK","addr:postcode":73160,"addr:housenumber":755,"addr:street":"SW 19th St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-97.5016087753838,35.32125699516866]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"McKinney","addr:state":"TX","addr:postcode":75069,"addr:housenumber":1800,"addr:street":"N Graves St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-96.62661443631966,33.21510854980207]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Denton","addr:state":"TX","addr:postcode":76201,"addr:housenumber":2645,"addr:street":"W University Dr","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-97.1667602,33.227518]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Lewisville","addr:state":"TX","addr:postcode":75067,"addr:housenumber":1288,"addr:street":"W Main St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-97.02586491276476,33.0401373451818]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Carrolton","addr:state":"TX","addr:postcode":75007,"addr:housenumber":2620,"addr:street":"N Josey Ln","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-96.88924738015781,32.986606292947535]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Garland","addr:state":"TX","addr:postcode":75041,"addr:housenumber":1122,"addr:street":"W Centerville Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-96.64400344879452,32.85516450577583]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Duncanville","addr:state":"TX","addr:postcode":75137,"addr:housenumber":800,"addr:street":"S Cockrell Hill Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-96.88861300212668,32.645499847075904]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Arlington","addr:state":"TX","addr:postcode":76017,"addr:housenumber":4620,"addr:street":"S Cooper St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-97.1393351206986, 32.67357132721084]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"North Richland Hills","addr:state":"TX","addr:postcode":76180,"addr:housenumber":5152,"addr:street":"Rufe Snow Dr","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-97.23526386774908,32.84307500854446]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Fort Worth","addr:state":"TX","addr:postcode":76177,"addr:housenumber":8968,"addr:street":"Tehama Ridge Pkwy","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-97.32106126441758,32.90330728781284]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Fort Worth","addr:state":"TX","addr:postcode":76134,"addr:housenumber":8000,"addr:street":"Crowley Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-97.34959543124171,32.63284449862518]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Super 1 Foods","addr:city":"Athol","addr:state":"ID","addr:postcode":83801,"addr:housenumber":30585,"addr:street":"N Roberts Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-116.69331730420085,47.95048181464238]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Super 1 Foods","addr:city":"Bonner's Ferry","addr:state":"ID","addr:postcode":83805,"addr:housenumber":6452,"addr:street":"S Main St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-116.33319882625655,48.67727372535044]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Super 1 Foods","addr:city":"Coeur d'Alene","addr:state":"ID","addr:postcode":83815,"addr:housenumber":305,"addr:street":"W Kathleen Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-116.79078370866449,47.71620406835044]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Super 1 Foods","addr:city":"Hayden","addr:state":"ID","addr:postcode":83835,"addr:housenumber":240,"addr:street":"W Hayden Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-116.78991187367122,47.75781756436869]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Super 1 Foods","addr:city":"Oldtown","addr:state":"ID","addr:postcode":83822,"addr:housenumber":86,"addr:street":"Tank Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-117.02532314857957,48.18794628488271]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Super 1 Foods","addr:city":"Rathdrum","addr:state":"ID","addr:postcode":83858,"addr:housenumber":15837,"addr:street":"N Westwood Dr","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-116.87668213824031, 47.81580830033745]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Super 1 Foods","addr:city":"Sandpoint","addr:state":"ID","addr:postcode":82864,"addr:housenumber":624,"addr:street":"Larch St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-116.55625612228664,48.28183670687317]}
     }
     ]}
 
