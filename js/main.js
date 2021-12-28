@@ -12,7 +12,7 @@ require([
         //"https://raw.githubusercontent.com/NMGIS/24-7-Store-Map.github.io/main/Stores.geojson";
         
   const template = {
-    title: "{Name}",
+    title: "{name}",
     lastEditInfoEnabled: false,
     content: [
       {
@@ -44,7 +44,7 @@ require([
 
     const uvrRenderer = {
         type: "unique-value", 
-        field: "Name",
+        field: "name",
         defaultSymbol: {
           type: "simple-marker",
           color: "#b2b2b2", // light-gray
@@ -52,7 +52,7 @@ require([
         },
         uniqueValueInfos: [{
             value: "Super 1 Foods",
-            label: "Super 1 Foods",  // labels will appear on the Legend widget
+            label: "Super 1 Foods", 
             symbol: {
               type: "picture-marker",
               url: "png/Super1.png",
