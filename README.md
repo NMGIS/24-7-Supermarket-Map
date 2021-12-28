@@ -1,4 +1,4 @@
-# Mapping 24/7 Grocery stores
+#24/7 Shopping Map
 
 Just learning stuff
 
