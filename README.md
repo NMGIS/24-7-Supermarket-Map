@@ -3,6 +3,7 @@
 - Mapping 24/7 Grocery Store locations within the contiguous Unites States
 
 - Why? Just a learning expreince focused on ArcGIS API for JS, geojson, JS, HTML, CSS, GitHub, Python, OSM, and web scraping
+  - Complete database of this information might serve a purpose...
 
 # What is needed?
 
