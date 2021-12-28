@@ -12,4 +12,4 @@
 
 # Contributions
 
-- Pull requests welcome. Information on how to contribute data found CONTRIBUTING.md
+- Pull requests welcome. Information on how to contribute data found [CONTRIBUTING.md](//CONTRIBUTING.md)
