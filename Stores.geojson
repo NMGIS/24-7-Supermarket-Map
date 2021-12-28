@@ -99,16 +99,10 @@
         "type":"Feature","properties":{"name":"Super 1 Foods","addr:city":"Evergreen","addr:state":"MT","addr:postcode":59901,"addr:housenumber":1346,"addr:street":"Highway 2 E","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-114.28056159120476,48.212131711401035]}
     },
     {
-        "type":"Feature","properties":{"name":"Super 1 Foods","addr:city":"Polson","addr:state":"MT","addr:postcode":59860,"addr:housenumber":50331,"addr:street":"US Hwy 93","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-114.14490084118358, 47.69212067427481]}
-    },
-    {
         "type":"Feature","properties":{"name":"Super 1 Foods","addr:city":"Stevensville","addr:state":"MT","addr:postcode":59870,"addr:housenumber":39,"addr:street":"Stevensville Cutoff Rd W","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-114.11191440187362,46.52132860635793]}
     },
     {
         "type":"Feature","properties":{"name":"Super 1 Foods","addr:city":"Whitefish","addr:state":"MT","addr:postcode":59937,"addr:housenumber":6475,"addr:street":"US HWY 93 South","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-114.33319781428256,48.39559824237225]}
-    },
-    {
-        "type":"Feature","properties":{"name":"Super 1 Foods","addr:city":"Colville","addr:state":"MT","addr:postcode":99114,"addr:housenumber":1250,"addr:street":"N Highway 395","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-117.92053017128947,48.55603802495773]}
     }
     ]}
 
