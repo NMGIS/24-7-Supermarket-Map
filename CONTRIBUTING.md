@@ -11,11 +11,11 @@
 
 - Make commits to Stores.geojson in the following style 
 
-'''
+````
     {
         "type":"Feature","properties":{"Name":"","addr:city":"","addr:state":"","addr:postcode":,"addr:housenumber":,"addr:street":"","shop":""},"geometry":{"type":"Point","coordinates":[long,lat]}
     },
-'''
+````
 
 - Submit a Pull Request, detailing the store you are adding
 
