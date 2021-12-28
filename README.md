@@ -12,4 +12,4 @@
 
 # Contributions
 
-- Pull requests welcome. Information on how to contribute data found [CONTRIBUTING.md](//CONTRIBUTING.md)
+- Pull requests welcome. Information on how to contribute data found [CONTRIBUTING.md](https://github.com/NMGIS/24-7-Store-Map.github.io/blob/51f6cccd9a5f16f6605cd8fc9642cf53a17f7719/CONTRIBUTING.md)
