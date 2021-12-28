@@ -7,6 +7,15 @@
     },
     {
         "type":"Feature","properties":{"Name":"Kroger","addr:city":"Jackson","addr:state":"TN","addr:postcode":38305,"addr:housenumber":41,"addr:street":"Stonebrook Pl","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-88.85821748099958,35.68841241849296]}
+    },
+    {
+        "type":"Feature","properties":{"Name":"Kroger","addr:city":"Payallup","addr:state":"WA","addr:postcode":98371,"addr:housenumber":349,"addr:street":"Valley Ave NW","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.298570981757,47.211129681668154]}
+    },
+    {
+        "type":"Feature","properties":{"Name":"Kroger","addr:city":"Jackson","addr:state":"MS","addr:postcode":39211,"addr:housenumber":4910,"addr:street":"I-55 N","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-90.14797222038264,32.36402753214287]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Lancaster","addr:state":"CA","addr:postcode":93534,"addr:housenumber":740,"addr:street":"W K4 AVE","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-118.14532095579769,34.672032450498065]}
     }
     ]}
 
