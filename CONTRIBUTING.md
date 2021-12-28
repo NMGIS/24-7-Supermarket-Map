@@ -2,7 +2,7 @@
 
 - Trying to build a database of 24/7 in-person shopping
 
-- Store coordinate location and several attributes are tracked
+- coordinate location and several attributes are needed
     - Attributes follow OSM schema
 
 ## Adding a store
@@ -11,9 +11,11 @@
 
 - Make commits to Stores.geojson in the following style 
 
+'''
     {
         "type":"Feature","properties":{"Name":"","addr:city":"","addr:state":"","addr:postcode":,"addr:housenumber":,"addr:street":"","shop":""},"geometry":{"type":"Point","coordinates":[long,lat]}
     },
+'''
 
 - Submit a Pull Request, detailing the store you are adding
 
