@@ -1,4 +1,4 @@
-#24/7 Shopping Map
+# 24/7 Shopping Map
 
 Just learning stuff
 
