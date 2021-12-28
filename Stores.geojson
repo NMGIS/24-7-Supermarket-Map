@@ -103,6 +103,9 @@
     },
     {
         "type":"Feature","properties":{"name":"Super 1 Foods","addr:city":"Whitefish","addr:state":"MT","addr:postcode":59937,"addr:housenumber":6475,"addr:street":"US HWY 93 South","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-114.33319781428256,48.39559824237225]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Haggen","addr:city":"Woodinville","addr:state":"WA","addr:postcode":98072,"addr:housenumber":98072,"addr:street":"Garden Way NE","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.15735248146316,47.755752728175864]}
     }
     ]}
 

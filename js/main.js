@@ -69,6 +69,15 @@ require([
                 height: "19px"
             }
             },{
+            value: "Haggen",
+            label: "Haggen",
+            symbol: {
+                type: "picture-marker",
+                url: "png/Haggen.png",
+                width: "50px",
+                height: "11px"
+            }
+            },{
             value: "Kroger",
             label: "Kroger",
             symbol: {
