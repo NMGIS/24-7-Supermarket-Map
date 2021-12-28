@@ -106,6 +106,33 @@
     },
     {
         "type":"Feature","properties":{"name":"Haggen","addr:city":"Woodinville","addr:state":"WA","addr:postcode":98072,"addr:housenumber":98072,"addr:street":"Garden Way NE","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.15735248146316,47.755752728175864]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Saar's Super Saver Foods","addr:city":"Tacoma","addr:state":"WA","addr:postcode":98444,"addr:housenumber":13322,"addr:street":"Pacific Ave S","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.43611216571652,47.135834613164796]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Saar's Super Saver Foods","addr:city":"Auburn","addr:state":"WA","addr:postcode":98002,"addr:housenumber":1702,"addr:street":"Auburn Way N","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.2203244045633,47.32430080765679]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Saar's Super Saver Foods","addr:city":"Kent","addr:state":"WA","addr:postcode":98030,"addr:housenumber":25928,"addr:street":"104th Ave SE","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.20061214729974,47.369356591411524]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Saar's Super Saver Foods","addr:city":"Tukwila","addr:state":"WA","addr:postcode":98168,"addr:housenumber":3725,"addr:street":"144th St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.28565834758687,47.47307551857984]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Saar's Super Saver Foods","addr:city":"Renton","addr:state":"WA","addr:postcode":98056,"addr:housenumber":3208,"addr:street":"NE Sunset Blvd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.17693759362528,47.50508139395912]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Saar's Super Saver Foods","addr:city":"Seattle","addr:state":"WA","addr:postcode":98146,"addr:housenumber":10616,"addr:street":"16th Ave SW","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.35445707252495,47.507977498853045]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Saar's Super Saver Foods","addr:city":"Bremerton","addr:state":"WA","addr:postcode":98310,"addr:housenumber":2900,"addr:street":"Wheaton Way","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.62803518751905,47.58966505591351]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Saar's Super Saver Foods","addr:city":"Port Angeles","addr:state":"WA","addr:postcode":98362,"addr:housenumber":114,"addr:street":"E Lauridsen Blvd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-123.44424384598626,48.10697972786261]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Saar's Super Saver Foods","addr:city":"Oak Harbor","addr:state":"WA","addr:postcode":98277,"addr:housenumber":32199,"addr:street":"State Rte 20","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.65655319136934,48.29798415215799]}
     }
     ]}
 

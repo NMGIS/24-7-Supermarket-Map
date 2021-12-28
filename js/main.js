@@ -60,6 +60,15 @@ require([
               height: "39px"
             }
             },{
+            value: "Saar's Super Saver Foods",
+            label: "Saar's Super Saver Foods",
+            symbol: {
+                type: "picture-marker",
+                url: "png/Saars.png",
+                width: "50px",
+                height: "23px"
+            }
+            },{
             value: "WinCo Foods",
             label: "WinCo Foods",
             symbol: {
