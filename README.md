@@ -1,1 +1,5 @@
-# 24-7-Store-Map.github.io
+# 24/7 Shopping Map
+
+Just learning stuff
+
+Feel free to contribute to my learning experience
