@@ -271,6 +271,54 @@
     },
     {
         "type":"Feature","properties":{"name":"Safeway","addr:city":"Roseville","addr:state":"CA","addr:postcode":95661,"addr:housenumber":8640,"addr:street":"Sierra College Blvd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-121.2285686105801,38.74190793444749]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Petaluma","addr:state":"CA","addr:postcode":94954,"addr:housenumber":389,"addr:street":"S Mcdowell Blvd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.62185597267147,38.24889679615408]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Napa","addr:state":"CA","addr:postcode":94558,"addr:housenumber":3375,"addr:street":"Jefferson St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.30183206103904,38.32117900843894]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Novato","addr:state":"CA","addr:postcode":94947,"addr:housenumber":3375,"addr:street":"Diablo Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.57148617800044,38.10376304935826]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Clayton","addr:state":"CA","addr:postcode":94517,"addr:housenumber":5431,"addr:street":"Clayton Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-121.9535299199407,37.95367050821095]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Lafayette","addr:state":"CA","addr:postcode":94549,"addr:housenumber":3540,"addr:street":"Mt Diablo Blvd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.11944988067737,37.89283401052221]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Albany","addr:state":"CA","addr:postcode":94707,"addr:housenumber":1500,"addr:street":"Solano Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.28690531853914,37.89026710932716]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"San Francisco","addr:state":"CA","addr:postcode":94112,"addr:housenumber":4950,"addr:street":"Mission St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.43875379625334,37.719853756860694]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Alameda","addr:state":"CA","addr:postcode":94501,"addr:housenumber":2227,"addr:street":"S Shore Ctr","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.25083147804968,37.757252837548435]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Alamo","addr:state":"CA","addr:postcode":94507,"addr:housenumber":200,"addr:street":"Alamo Plaza","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.03480005663313,37.850870224119205]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Discovery Bay","addr:state":"CA","addr:postcode":94505,"addr:housenumber":14840,"addr:street":"Hwy 4","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-121.6215903922193,37.89057060456828]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"San Ramon","addr:state":"CA","addr:postcode":94583,"addr:housenumber":2505,"addr:street":"San Ramon Valley Blvd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-121.97670700923516,37.77317693870212]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Livermore","addr:state":"CA","addr:postcode":94551,"addr:housenumber":4495,"addr:street":"First St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-121.74293473566796,37.69559818330561]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Pleasanton","addr:state":"CA","addr:postcode":94566,"addr:housenumber":1701,"addr:street":"Santa Rita Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-121.87450648719181,37.675141353097644]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Tracy","addr:state":"CA","addr:postcode":95376,"addr:housenumber":1801,"addr:street":"W 11th St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-121.4497557250673,37.740185058222586]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Turlock","addr:state":"CA","addr:postcode":95380,"addr:housenumber":3051,"addr:street":"Countryside Dr","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-120.8835127431663,37.52096245507203]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"San Mateo","addr:state":"CA","addr:postcode":94402,"addr:housenumber":1655,"addr:street":"El Camino Real","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.31367662034002,37.553212624582656]}
     }
     ]}
 
