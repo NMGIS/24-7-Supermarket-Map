@@ -133,6 +133,63 @@
     },
     {
         "type":"Feature","properties":{"name":"Saar's Super Saver Foods","addr:city":"Oak Harbor","addr:state":"WA","addr:postcode":98277,"addr:housenumber":32199,"addr:street":"State Rte 20","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.65655319136934,48.29798415215799]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Marysville","addr:state":"WA","addr:postcode":98271,"addr:housenumber":3947,"addr:street":"116th St NE","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.17733587144146,48.10091635818299]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Everett","addr:state":"WA","addr:postcode":98208,"addr:housenumber":9900,"addr:street":"19th Ave SE","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.20861929864573,47.90838369716122]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Edmonds","addr:state":"WA","addr:postcode":98026,"addr:housenumber":21900,"addr:street":"Hwy 99","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.33331164604779,47.80072136775716]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Bremerton","addr:state":"WA","addr:postcode":98312,"addr:housenumber":4969,"addr:street":"Kitsap Way","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.68196125437733,47.568133313650186]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Kent","addr:state":"WA","addr:postcode":98031,"addr:housenumber":21100,"addr:street":"91st Pl S","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.21897624699626,47.41434028135674]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Federal Way","addr:state":"WA","addr:postcode":98003,"addr:housenumber":160,"addr:street":"SW Campus Dr","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.33618293956279,47.29252516203333]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Sumner","addr:state":"WA","addr:postcode":98390,"addr:housenumber":6621,"addr:street":"166th Ave E","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.20549615645868,47.19572859006327]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Tacoma","addr:state":"WA","addr:postcode":98408,"addr:housenumber":1913,"addr:street":"S 72nd St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.45993212962944,47.19520863870922]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Puyallup","addr:state":"WA","addr:postcode":98375,"addr:housenumber":9518,"addr:street":"176th St E","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.30083213491902,47.09572326466198]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Olympia","addr:state":"WA","addr:postcode":98516,"addr:housenumber":7540,"addr:street":"Martin Way E","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.77973840704713,47.05502400837424]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Moses Lake","addr:state":"WA","addr:postcode":98837,"addr:housenumber":960,"addr:street":"N Stratford Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-119.28183976197784,47.14139804924732]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Wenatchee","addr:state":"WA","addr:postcode":98801,"addr:housenumber":1340,"addr:street":"N Wenatchee Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-120.32820276730997,47.44176097362457]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Union Gap","addr:state":"WA","addr:postcode":98903,"addr:housenumber":2425,"addr:street":"Longfibre Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-120.49537350956011,46.56084038696493]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Richland","addr:state":"WA","addr:postcode":99352,"addr:housenumber":101,"addr:street":"Columbia Point Dr","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-119.26461622037196,46.26292060266859]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Kennewick","addr:state":"WA","addr:postcode":99336,"addr:housenumber":4602,"addr:street":"W Clearwater Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-119.18242146494865,46.2136088500416]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Spokane","addr:state":"WA","addr:postcode":99218,"addr:housenumber":9257,"addr:street":"N Nevada St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-117.39917302929783,47.7411304836594]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Spokane","addr:state":"WA","addr:postcode":99206,"addr:housenumber":9718,"addr:street":"E Sprague Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-117.27350533986309,47.65584408155491]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Coeur d'Alene","addr:state":"ID","addr:postcode":83814,"addr:housenumber":1485,"addr:street":"W Appleway Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-116.80556417678719,47.70384178656075]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Bellingham","addr:state":"ID","addr:postcode":98226,"addr:housenumber":300,"addr:street":"E Bellis Fair Pkwy","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.4815052128493,48.78697358697308]}
     }
     ]}
 
