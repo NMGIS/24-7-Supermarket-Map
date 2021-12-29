@@ -241,6 +241,9 @@
     },
     {
         "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Nampa","addr:state":"ID","addr:postcode":83651,"addr:housenumber":2020,"addr:street":"Caldwell Blvd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-116.60335129290905,43.608241414782064]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Fort Bragg","addr:state":"CA","addr:postcode":95437,"addr:housenumber":660,"addr:street":"660 S Main St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-123.80583998076659,39.43351514470488]}
     }
     ]}
 

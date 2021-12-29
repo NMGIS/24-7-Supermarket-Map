@@ -69,6 +69,15 @@ require([
                 height: "23px"
             }
             },{
+            value: "Safeway",
+            label: "Safeway",
+            symbol: {
+                type: "picture-marker",
+                url: "png/Safeway.png",
+                width: "50px",
+                height: "9px"
+            }
+            },{
             value: "WinCo Foods",
             label: "WinCo Foods",
             symbol: {
