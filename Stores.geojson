@@ -244,6 +244,33 @@
     },
     {
         "type":"Feature","properties":{"name":"Safeway","addr:city":"Fort Bragg","addr:state":"CA","addr:postcode":95437,"addr:housenumber":660,"addr:street":"660 S Main St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-123.80583998076659,39.43351514470488]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Pollock Pines","addr:state":"CA","addr:postcode":95726,"addr:housenumber":6498,"addr:street":"Pony Express Trail","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-120.57687260412924,38.762346654458256]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Sebastopol","addr:state":"CA","addr:postcode":95472,"addr:housenumber":406,"addr:street":"N Main St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.82705138741994,38.4044881930121]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Crescent City","addr:state":"CA","addr:postcode":95531,"addr:housenumber":475,"addr:street":"M St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-124.19331773744557,41.7560631324479]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"South Lake Tahoe","addr:state":"CA","addr:postcode":96150,"addr:housenumber":1020,"addr:street":"Johnson Ln","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-119.96732539451213,38.944190354944176]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Truckee","addr:state":"CA","addr:postcode":96161,"addr:housenumber":11290,"addr:street":"Donner Pass Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-120.20651548179129,39.32726719022221]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Kings Beach","addr:state":"CA","addr:postcode":96143,"addr:housenumber":7815,"addr:street":"N Lake Blvd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-120.03376107299765,39.23913770034028]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Lincoln","addr:state":"CA","addr:postcode":95648,"addr:housenumber":67,"addr:street":"Lincoln Blvd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-121.29420830227482,38.87800580718743]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Roseville","addr:state":"CA","addr:postcode":95678,"addr:housenumber":1080,"addr:street":"Pleasant Grove Blvd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-121.29132801260293,38.77739280524327]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Roseville","addr:state":"CA","addr:postcode":95661,"addr:housenumber":8640,"addr:street":"Sierra College Blvd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-121.2285686105801,38.74190793444749]}
     }
     ]}
 
