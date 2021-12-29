@@ -190,6 +190,57 @@
     },
     {
         "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Bellingham","addr:state":"ID","addr:postcode":98226,"addr:housenumber":300,"addr:street":"E Bellis Fair Pkwy","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.4815052128493,48.78697358697308]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Moscow","addr:state":"ID","addr:postcode":83843,"addr:housenumber":1700,"addr:street":"W Pullman Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-117.02542958475895,46.73439283324951]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Lewiston","addr:state":"ID","addr:postcode":83501,"addr:housenumber":2001,"addr:street":"17th St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-117.00701515414835,46.3996061184217]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Idaho Falls","addr:state":"ID","addr:postcode":83401,"addr:housenumber":333,"addr:street":"N Woodruff Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-112.00219261586145,43.49877291133128]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Pocatello","addr:state":"ID","addr:postcode":83201,"addr:housenumber":1030,"addr:street":"Yellowstone Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-112.4490472006073,42.89387924257976]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Twin Falls","addr:state":"ID","addr:postcode":83301,"addr:housenumber":1569,"addr:street":"Blue Lakes Blvd N","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-114.46351597458859,42.589782336083495]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Longview","addr:state":"WA","addr:postcode":98632,"addr:housenumber":120,"addr:street":"Triangle Shopping Center","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.9338721639629,46.14318248966417]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Vancouver","addr:state":"WA","addr:postcode":98661,"addr:housenumber":2101,"addr:street":"Northeast Andresen Road","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.59705059225689,45.63894991195796]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Vancouver","addr:state":"WA","addr:postcode":98684,"addr:housenumber":905,"addr:street":"NE 136th Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.53175027515417,45.62916452648603]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Vancouver","addr:state":"WA","addr:postcode":98665,"addr:housenumber":9700,"addr:street":"NE Hwy 99","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.6601927234552,45.691691461302305]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Vancouver","addr:state":"WA","addr:postcode":98662,"addr:housenumber":11310,"addr:street":"NE 119th St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.55655909352255,45.70887720990261]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Eagle","addr:state":"ID","addr:postcode":83616,"addr:housenumber":3032,"addr:street":"East State Street","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-116.31484767898216,43.68578027154658]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Meridian","addr:state":"ID","addr:postcode":83646,"addr:housenumber":1407,"addr:street":"W Chinden Blvd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-116.41110530050699,43.660440769976326]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Boise","addr:state":"ID","addr:postcode":83704,"addr:housenumber":8200,"addr:street":"W Fairview Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-116.28542756821724,43.62068371819534]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Boise","addr:state":"ID","addr:postcode":83702,"addr:housenumber":110,"addr:street":"E Myrtle St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-116.1980048695644,43.60925028532493]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Meridian","addr:state":"ID","addr:postcode":83642,"addr:housenumber":1050,"addr:street":"S Progress Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-116.38962213201856,43.59613041478197]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Nampa","addr:state":"ID","addr:postcode":83687,"addr:housenumber":1175,"addr:street":"N. Happy Valley Road","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-116.51559812280868,43.5947825190416]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Nampa","addr:state":"ID","addr:postcode":83651,"addr:housenumber":2020,"addr:street":"Caldwell Blvd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-116.60335129290905,43.608241414782064]}
     }
     ]}
 
