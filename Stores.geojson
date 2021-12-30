@@ -319,6 +319,18 @@
     },
     {
         "type":"Feature","properties":{"name":"Safeway","addr:city":"San Mateo","addr:state":"CA","addr:postcode":94402,"addr:housenumber":1655,"addr:street":"El Camino Real","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.31367662034002,37.553212624582656]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Half Moon Bay","addr:state":"CA","addr:postcode":94019,"addr:housenumber":70,"addr:street":"Cabrillo Hwy","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.43613458413193,37.469268130893326]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Redwood City","addr:state":"CA","addr:postcode":94063,"addr:housenumber":1071,"addr:street":"El Camino Real","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.23045236001884,37.484632313089634]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Menlo Park","addr:state":"CA","addr:postcode":94025,"addr:housenumber":525,"addr:street":"El Camino Real","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.17915519344734,37.45054091713214]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Mountain View","addr:state":"CA","addr:postcode":94040,"addr:housenumber":645,"addr:street":"San Antonio Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.1118488445262,37.40181099899278]}
     }
     ]}
 
