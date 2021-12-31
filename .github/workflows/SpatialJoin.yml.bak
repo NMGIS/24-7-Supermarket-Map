@@ -5,8 +5,9 @@ name: Spatial Join
 on:
   # Triggers the workflow on push or pull request events but only for the main branch
   push:
-    paths:
-      - 'layers/'Stores.geojson'
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
