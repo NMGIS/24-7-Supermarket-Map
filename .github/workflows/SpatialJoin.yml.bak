@@ -34,4 +34,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: execute Spatial Join
-        run: python //SpatialJoin/SpatialJoin.py
+        run: python SpatialJoin.py
