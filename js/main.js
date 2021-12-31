@@ -7,7 +7,7 @@ require([
 ], function (Map, MapView, GeoJSONLayer, Home, UniqueValueRenderer) {
 
     const url = 
-        "Stores.geojson";
+        "layers/Stores.geojson";
         //if hosted on github
         //"https://raw.githubusercontent.com/NMGIS/24-7-Store-Map.github.io/main/Stores.geojson";
         
