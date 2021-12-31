@@ -26,4 +26,4 @@ grpdd = grpsrt.drop_duplicates(subset=['STATE'], keep='last')
 test = states.merge(grpdd, on='STATE', how='left')
 
 #output to file
-test.to_file("StatesCount.json", driver="GeoJSON")
+test.to_file('layers/StatesCount.json', driver="GeoJSON")
