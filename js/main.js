@@ -8,8 +8,9 @@ require([
 
     const url = 
         "layers/Stores.geojson";
-        //if hosted on github
-        //"https://raw.githubusercontent.com/NMGIS/24-7-Store-Map.github.io/main/Stores.geojson";
+
+    const url2 = 
+        "layers/StatesCount.json";
         
   const template = {
     title: "{name}",
@@ -106,6 +107,35 @@ require([
             }
         }]
     };
+
+    const StatesRenderer = {
+        type: "unique-value", 
+        field: "name",
+        defaultSymbol: {
+          type: "simple-fill",
+          color: "#b2b2b2", // light-gray
+          size: "10px"
+        },
+        uniqueValueInfos: [{
+            value: "Super 1 Foods",
+            label: "Super 1 Foods", 
+            symbol: {
+              type: "picture-fill",
+              url: "png/Super1.png",
+              width: "100px",
+              height: "79px"
+        }
+        },{
+            value: "WinCo Foods",
+            label: "WinCo Foods",
+            symbol: {
+                type: "picture-fill",
+                url: "png/WinCo.png",
+                width: "50px",
+                height: "28px"
+        }
+        }]
+    };
        
     const map = new Map({
         basemap: "streets-night-vector", // this basemap does not need an API key
@@ -118,7 +148,14 @@ require([
         renderer: uvrRenderer
     });
 
+    const geojsonlayer2 = new GeoJSONLayer({
+        url: url2,
+        copyright: "",
+        renderer: StatesRenderer
+    });
+
     map.add(geojsonlayer);
+    //map.add(geojsonlayer2);
     
     const view = new MapView({
         container: "viewDiv",
