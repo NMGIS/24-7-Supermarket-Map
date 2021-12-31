@@ -116,9 +116,6 @@ require([
         copyright: "",
         popupTemplate: template,
         renderer: uvrRenderer
-    // featureReduction = {
-    //    type: = "cluster"
-    //}  
     });
 
     map.add(geojsonlayer);
