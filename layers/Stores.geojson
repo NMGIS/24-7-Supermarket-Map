@@ -331,6 +331,9 @@
     },
     {
         "type":"Feature","properties":{"name":"Safeway","addr:city":"Mountain View","addr:state":"CA","addr:postcode":94040,"addr:housenumber":645,"addr:street":"San Antonio Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.1118488445262,37.40181099899278]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Los Gatos","addr:state":"CA","addr:postcode":95032,"addr:housenumber":15549,"addr:street":"Union Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-121.93259133290567,37.24244125245407]}
     }
     ]}
 
