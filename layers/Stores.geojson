@@ -421,6 +421,9 @@
     },
     {
         "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Oceanside","addr:state":"CA","addr:postcode":92054,"addr:housenumber":2245,"addr:street":"S El Camino Real","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-117.3299039582684,33.18557863338084]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Vacaville","addr:state":"CA","addr:postcode":95687,"addr:housenumber":855,"addr:street":"Davis St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-121.98467790052145,38.34659389935837]}
     }
     ]}
 
