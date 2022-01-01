@@ -140,7 +140,7 @@ require([
             }
         }]
     };
-
+//
     const map = new Map({
         basemap: "streets-night-vector", // this basemap does not need an API key
     });
