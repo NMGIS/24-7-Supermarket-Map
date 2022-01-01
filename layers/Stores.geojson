@@ -334,6 +334,15 @@
     },
     {
         "type":"Feature","properties":{"name":"Safeway","addr:city":"Los Gatos","addr:state":"CA","addr:postcode":95032,"addr:housenumber":15549,"addr:street":"Union Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-121.93259133290567,37.24244125245407]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Sunnyvale","addr:state":"CA","addr:postcode":94087,"addr:housenumber":150,"addr:street":"E El Camino Real","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.03071218833492,37.36466003097583]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"San Jose","addr:state":"CA","addr:postcode":95125,"addr:housenumber":1530,"addr:street":"Hamilton Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-121.91103638734498,37.293224602160855]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"San Jose","addr:state":"CA","addr:postcode":95120,"addr:housenumber":6477,"addr:street":"Almaden Expwy","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-121.86150350941283,37.21952984182888]}
     }
     ]}
 
