@@ -3,8 +3,7 @@ require([
     "esri/views/MapView",
     "esri/layers/GeoJSONLayer",
     "esri/widgets/Home",
-    "esri/renderers/UniqueValueRenderer"
-], function (Map, MapView, GeoJSONLayer, Home, UniqueValueRenderer) {
+], function (Map, MapView, GeoJSONLayer, Home) {
 
     const url =
         "layers/Stores.geojson";
@@ -147,17 +146,19 @@ require([
         url: url,
         copyright: "",
         popupTemplate: template,
+        minScale: 10000000,
         renderer: uvrRenderer
     });
 
     const geojsonlayer2 = new GeoJSONLayer({
         url: url2,
         copyright: "",
+        maxScale: 10000000,
         renderer: StatesRenderer
     });
 
     map.add(geojsonlayer);
-    //map.add(geojsonlayer2);
+    map.add(geojsonlayer2);
 
     const view = new MapView({
         container: "viewDiv",
