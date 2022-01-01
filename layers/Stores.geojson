@@ -343,6 +343,57 @@
     },
     {
         "type":"Feature","properties":{"name":"Safeway","addr:city":"San Jose","addr:state":"CA","addr:postcode":95120,"addr:housenumber":6477,"addr:street":"Almaden Expwy","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-121.86150350941283,37.21952984182888]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Los Gatos","addr:state":"CA","addr:postcode":95030,"addr:housenumber":470,"addr:street":"N Santa Cruz Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-121.97908836747288,37.23146191287479]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Scotts Valley","addr:state":"CA","addr:postcode":95066,"addr:housenumber":253,"addr:street":"Mt Hermon Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.0310497884736,37.046230213076186]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Aptos","addr:state":"CA","addr:postcode":95003,"addr:housenumber":16,"addr:street":"Rancho Del Mar","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-121.90832697460237,36.97870140460212]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Carmel","addr:state":"CA","addr:postcode":93923,"addr:housenumber":5,"addr:street":"Crossroads Blvd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-121.91084593431168,36.53652838452779]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"San Marcos","addr:state":"CA","addr:postcode":92078,"addr:housenumber":555,"addr:street":"Grand Avenue","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-117.1765807548009,33.135300620320415]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Indio","addr:state":"CA","addr:postcode":92203,"addr:housenumber":42600,"addr:street":"Jackson St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-116.21311247856315,33.73956017491318]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Temecula","addr:state":"CA","addr:postcode":92591,"addr:housenumber":40435,"addr:street":"Winchester Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-117.15355166241841,33.53087270400984]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Hemet","addr:state":"CA","addr:postcode":92545,"addr:housenumber":4602,"addr:street":"W Florida Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-117.02105486756491,33.74538699961115]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Perris","addr:state":"CA","addr:postcode":92571,"addr:housenumber":3150,"addr:street":"N Case Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-117.19255890668178,33.74570458747208]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Moreno Valley","addr:state":"CA","addr:postcode":92553,"addr:housenumber":12880,"addr:street":"Day St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-117.27519041675079,33.93370483005639]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Norco","addr:state":"CA","addr:postcode":92860,"addr:housenumber":1100,"addr:street":"Hamner Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-117.56467202093648,33.89935754262002]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Fontana","addr:state":"CA","addr:postcode":92335,"addr:housenumber":14338,"addr:street":"Foothill Blvd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-117.49195842582132,34.107400747422346]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Pomona","addr:state":"CA","addr:postcode":91766,"addr:housenumber":90,"addr:street":"Rio Rancho","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-117.76150676612757,34.02630757542287]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Lakewood","addr:state":"CA","addr:postcode":90805,"addr:housenumber":3400,"addr:street":"E South St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-118.15216874996035,33.85881933410571]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Apple Valley","addr:state":"CA","addr:postcode":92308,"addr:housenumber":19047,"addr:street":"Bear Valley Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-117.24779746349215,34.46831040656222]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Victorville","addr:state":"CA","addr:postcode":92393,"addr:housenumber":15350,"addr:street":"Roy Rodgers Dr","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-117.32903134263195,34.52291850899119]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Ventura","addr:state":"CA","addr:postcode":93003,"addr:housenumber":4750,"addr:street":"Telephone Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-119.23239240583406,34.259505212036444]}
     }
     ]}
 
