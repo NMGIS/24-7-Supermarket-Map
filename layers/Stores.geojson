@@ -424,6 +424,9 @@
     },
     {
         "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Vacaville","addr:state":"CA","addr:postcode":95687,"addr:housenumber":855,"addr:street":"Davis St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-121.98467790052145,38.34659389935837]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Reno","addr:state":"NV","addr:postcode":89512,"addr:housenumber":2855,"addr:street":"Northtowne Ln","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-119.78407315076706,39.553497055293555]}
     }
     ]}
 
