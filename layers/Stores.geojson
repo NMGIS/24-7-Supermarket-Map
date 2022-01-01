@@ -427,6 +427,33 @@
     },
     {
         "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Reno","addr:state":"NV","addr:postcode":89512,"addr:housenumber":2855,"addr:street":"Northtowne Ln","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-119.78407315076706,39.553497055293555]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Elk Grove","addr:state":"CA","addr:postcode":95758,"addr:housenumber":8142,"addr:street":"Sheldon Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-121.40676737135416,38.43622529048503]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Folsom","addr:state":"CA","addr:postcode":95630,"addr:housenumber":200,"addr:street":"Blue Ravine Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-121.17505106738307,38.65557023177094]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Orangevale","addr:state":"CA","addr:postcode":95662,"addr:housenumber":8701,"addr:street":"Greenback Ln","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-121.23371843923933,38.67982891273336]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Antelope","addr:state":"CA","addr:postcode":95843,"addr:housenumber":4137,"addr:street":"Elverta Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-121.36722814121522,38.71559293952136]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Roseville","addr:state":"CA","addr:postcode":95678,"addr:housenumber":10151,"addr:street":"Fairway Dr","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-121.2785440238194,38.78512939411994]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Yuba City","addr:state":"CA","addr:postcode":95993,"addr:housenumber":1350,"addr:street":"Franklin Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-121.63635424481332,39.125635555474105]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Chico","addr:state":"CA","addr:postcode":95928,"addr:housenumber":2060,"addr:street":"E 20th St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-121.80019664868364,39.72892702326301]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Redding","addr:state":"CA","addr:postcode":96003,"addr:housenumber":1050,"addr:street":"Old Alturas Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.34408072962908,40.58785201877044]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Eureka","addr:state":"CA","addr:postcode":95501,"addr:housenumber":636,"addr:street":"W Harris St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-124.17823532147887,40.78170330176306]}
     }
     ]}
 
