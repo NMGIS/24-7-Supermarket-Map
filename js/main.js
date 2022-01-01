@@ -121,19 +121,22 @@ require([
             value: "Super 1 Foods",
             label: "Super 1 Foods",
             symbol: {
-                type: "picture-fill",
-                url: "png/Super1.png",
-                width: "100px",
-                height: "79px"
+                type: "simple-fill",
+                color: [254,247,205]            
             }
         }, {
             value: "WinCo Foods",
             label: "WinCo Foods",
             symbol: {
-                type: "picture-fill",
-                url: "png/WinCo.png",
-                width: "50px",
-                height: "28px"
+                type: "simple-fill",
+                color: [170,31,36]
+            }
+        }, {
+            value: "Safeway",
+            label: "Safeway",
+            symbol: {
+                type: "simple-fill",
+                color: [215,43,49]
             }
         }]
     };
@@ -154,6 +157,7 @@ require([
         url: url2,
         copyright: "",
         maxScale: 10000000,
+        opacity: 0.5,
         renderer: StatesRenderer
     });
 
