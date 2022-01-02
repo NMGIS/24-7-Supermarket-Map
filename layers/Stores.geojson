@@ -463,6 +463,9 @@
     },
     {
         "type":"Feature","properties":{"name":"Kroger","addr:city":"Olive Branch","addr:state":"MS","addr:postcode":38654,"addr:housenumber":7427,"addr:street":"Goodman Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-89.8575614852238,34.9601758513813]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Marsh's Sun Fresh Market","addr:city":"Kansas City","addr:state":"MO","addr:postcode":64111,"addr:housenumber":4001,"addr:street":"Mill St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-94.59496526513958,39.05439536660372]}
     }
     ]}
 

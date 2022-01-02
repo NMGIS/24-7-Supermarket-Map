@@ -114,7 +114,16 @@ require([
                 url: "png/Giant.png",
                 width: "50px",
                 height: "64px"
-            }     
+            }
+        }, {
+            value: "Marsh's Sun Fresh Market",
+            label: "Marsh's Sun Fresh Market",
+            symbol: {
+                type: "picture-marker",
+                url: "png/Mallys.png",
+                width: "50px",
+                height: "19px"
+            }      
         }, {
             value: "Kroger",
             label: "Kroger",
@@ -155,6 +164,13 @@ require([
             symbol: {
                 type: "simple-fill",
                 color: [117,117,117]
+            }
+        }, {
+            value: "Marsh's Sun Fresh Market",
+            label: "Marsh's Sun Fresh Market",
+            symbol: {
+                type: "simple-fill",
+                color: [18,167,77]
             }
         }, {
             value: "Kroger",
