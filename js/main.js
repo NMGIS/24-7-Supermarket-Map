@@ -105,7 +105,16 @@ require([
                 url: "png/Cub.png",
                 width: "50px",
                 height: "34px"
-            }    
+            }
+        }, {
+            value: "Giant Food",
+            label: "Giant Food",
+            symbol: {
+                type: "picture-marker",
+                url: "png/Giant.png",
+                width: "50px",
+                height: "64px"
+            }     
         }, {
             value: "Kroger",
             label: "Kroger",
@@ -145,7 +154,14 @@ require([
             label: "Cub",
             symbol: {
                 type: "simple-fill",
-                color: [238,62,65]
+                color: [117,117,117]
+            }
+        }, {
+            value: "Giant Food",
+            label: "Giant Food",
+            symbol: {
+                type: "simple-fill",
+                color: [99,41,100]
             }
         }, {
             value: "Safeway",
