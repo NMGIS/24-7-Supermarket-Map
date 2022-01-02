@@ -460,6 +460,9 @@
     },
     {
         "type":"Feature","properties":{"name":"Giant Food","addr:city":"McLean","addr:state":"VA","addr:postcode":22101,"addr:housenumber":1454,"addr:street":"Chain Bridge Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-77.18015232046632,38.93278889182781]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Kroger","addr:city":"Olive Branch","addr:state":"MS","addr:postcode":38654,"addr:housenumber":7427,"addr:street":"Goodman Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-89.8575614852238,34.9601758513813]}
     }
     ]}
 

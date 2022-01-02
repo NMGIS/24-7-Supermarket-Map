@@ -157,6 +157,13 @@ require([
                 color: [117,117,117]
             }
         }, {
+            value: "Kroger",
+            label: "Kroger",
+            symbol: {
+                type: "simple-fill",
+                color: [19,75,151]
+            }
+        }, {
             value: "Giant Food",
             label: "Giant Food",
             symbol: {
