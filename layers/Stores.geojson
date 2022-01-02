@@ -454,6 +454,9 @@
     },
     {
         "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Eureka","addr:state":"CA","addr:postcode":95501,"addr:housenumber":636,"addr:street":"W Harris St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-124.17823532147887,40.78170330176306]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Duluth","addr:state":"MN","addr:postcode":55811,"addr:housenumber":615,"addr:street":" W Central Entrance","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-92.14653548475033,46.80337902062718]}
     }
     ]}
 
