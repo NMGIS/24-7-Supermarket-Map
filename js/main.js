@@ -98,6 +98,15 @@ require([
                 height: "11px"
             }
         }, {
+            value: "Cub",
+            label: "Cub",
+            symbol: {
+                type: "picture-marker",
+                url: "png/Cub.png",
+                width: "50px",
+                height: "34px"
+            }    
+        }, {
             value: "Kroger",
             label: "Kroger",
             symbol: {
@@ -132,6 +141,13 @@ require([
                 color: [170,31,36]
             }
         }, {
+            value: "Cub",
+            label: "Cub",
+            symbol: {
+                type: "simple-fill",
+                color: [238,62,65]
+            }
+        }, {
             value: "Safeway",
             label: "Safeway",
             symbol: {
@@ -140,7 +156,7 @@ require([
             }
         }]
     };
-    
+
     const map = new Map({
         basemap: "streets-night-vector", // this basemap does not need an API key
     });
