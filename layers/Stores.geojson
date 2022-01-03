@@ -544,6 +544,21 @@
     },
     {
         "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Reno","addr:state":"NV","addr:postcode":89512,"addr:housenumber":2855,"addr:street":"Northtowne Ln","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-119.7840757939195,39.553497684234074]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Medford","addr:state":"OR","addr:postcode":97501,"addr:housenumber":251,"addr:street":"E Barnett Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.86124368165125,42.31822313026782]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Grants Pass","addr:state":"OR","addr:postcode":97526,"addr:housenumber":231,"addr:street":"NE Terry Ln","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-123.3010347816641,42.437188435115154]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Bend","addr:state":"OR","addr:postcode":97701,"addr:housenumber":60,"addr:street":"NE Bend River Mall Dr","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-121.30456685007907,44.085498292125166]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Springfield","addr:state":"OR","addr:postcode":97477,"addr:housenumber":1920,"addr:street":"Olympic St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.99587771094785,44.06090032869587]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Eugene","addr:state":"OR","addr:postcode":97402,"addr:housenumber":4275,"addr:street":"Barger Dr","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-123.16939798049866,44.086561767505934]}
     }
     ]}
 
