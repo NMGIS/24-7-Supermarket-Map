@@ -505,6 +505,30 @@
     },
     {
         "type":"Feature","properties":{"name":"Crest Foods","addr:city":"Oklahoma City","addr:state":"OK","addr:postcode":73170,"addr:housenumber":10601,"addr:street":"S May Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-97.56803298156403,35.362215302115644]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Crest Foods","addr:city":"Oklahoma City","addr:state":"OK","addr:postcode":73162,"addr:housenumber":11120,"addr:street":"N. Rockwell","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-97.63751936781593,35.58276152062329]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Crest Foods","addr:city":"Oklahoma City","addr:state":"OK","addr:postcode":73110,"addr:housenumber":7212,"addr:street":"E Reno Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-97.40240737728334,35.46356584212585]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Crest Foods","addr:city":"Norman","addr:state":"OK","addr:postcode":73069,"addr:housenumber":2550,"addr:street":"Mt Williams Dr","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-97.47910216072275,35.23758979610523]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Crest Foods","addr:city":"Midwest City","addr:state":"OK","addr:postcode":73130,"addr:housenumber":249,"addr:street":"N Douglas Blvd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-97.37254753607668,35.46675506493789]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Crest Foods","addr:city":"Edmond","addr:state":"OK","addr:postcode":73013,"addr:housenumber":2200,"addr:street":"W 15th St #124","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-97.51274223516201,35.63645889771706]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Crest Foods","addr:city":"Moore","addr:state":"OK","addr:postcode":73160,"addr:housenumber":1315,"addr:street":"N Eastern Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-97.47869878025995,35.34993062370521]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Crest Foods","addr:city":"Oklahoma City","addr:state":"OK","addr:postcode":73127,"addr:housenumber":4503,"addr:street":"NW 23rd St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-97.60178858497788,35.49477509559537]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Crest Foods","addr:city":"Oklahoma City","addr:state":"OK","addr:postcode":73099,"addr:housenumber":715,"addr:street":"North Czech Hall Road","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-97.74591875370571,35.47374991380272]}
     }
     ]}
 
