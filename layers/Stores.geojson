@@ -466,6 +466,9 @@
     },
     {
         "type":"Feature","properties":{"name":"Marsh's Sun Fresh Market","addr:city":"Kansas City","addr:state":"MO","addr:postcode":64111,"addr:housenumber":4001,"addr:street":"Mill St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-94.59496526513958,39.05439536660372]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Woodman's","addr:city":"Rockford","addr:state":"IL","addr:postcode":61114,"addr:housenumber":3155,"addr:street":"McFarland Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-88.97474231183271,42.30729606242453]}
     }
     ]}
 

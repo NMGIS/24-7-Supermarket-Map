@@ -123,7 +123,16 @@ require([
                 url: "png/Mallys.png",
                 width: "50px",
                 height: "19px"
-            }      
+            }
+        }, {
+            value: "Woodman's",
+            label: "Woodman's",
+            symbol: {
+                type: "picture-marker",
+                url: "png/Woodmans.png",
+                width: "50px",
+                height: "20px"
+            }           
         }, {
             value: "Kroger",
             label: "Kroger",
@@ -185,6 +194,13 @@ require([
             symbol: {
                 type: "simple-fill",
                 color: [99,41,100]
+            }
+        }, {
+            value: "Woodman's",
+            label: "Woodman's",
+            symbol: {
+                type: "simple-fill",
+                color: [30,24,84]
             }
         }, {
             value: "Safeway",
