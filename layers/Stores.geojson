@@ -469,6 +469,42 @@
     },
     {
         "type":"Feature","properties":{"name":"Woodman's","addr:city":"Rockford","addr:state":"IL","addr:postcode":61114,"addr:housenumber":3155,"addr:street":"McFarland Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-88.97474231183271,42.30729606242453]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Freeport","addr:state":"IL","addr:postcode":61032,"addr:housenumber":1512,"addr:street":"S West Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-89.63293745364673,42.28338121942586]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Woodman's","addr:city":"Carpentersville","addr:state":"IL","addr:postcode":60110,"addr:housenumber":2100,"addr:street":"Randall Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-88.33840566250886,42.120198519138576]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Woodman's","addr:city":"Lakemoor","addr:state":"IL","addr:postcode":60051,"addr:housenumber":27555,"addr:street":"IL-120","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-88.16782817209666,42.32051292450855]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Woodman's","addr:city":"Buffalo Grove","addr:state":"IL","addr:postcode":60089,"addr:housenumber":1550,"addr:street":"Deerfield Pkwy","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-87.9234558067762,42.16889309854849]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Save A Lot","addr:city":"Chicago","addr:state":"IL","addr:postcode":60649,"addr:housenumber":7240,"addr:street":"S Stoney Island Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-87.58708488711495,41.7630026345498]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Glendale","addr:state":"AZ","addr:postcode":85308,"addr:housenumber":5850,"addr:street":"W Bell Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-112.18311868227805,33.6408746226612]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Surprize","addr:state":"AZ","addr:postcode":85374,"addr:housenumber":16925,"addr:street":"W Bell Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-112.42296065014101,33.63750119842029]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Mesa","addr:state":"AZ","addr:postcode":85206,"addr:housenumber":1235,"addr:street":"S Power Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-111.68293535479668,33.39270727067388]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Gilbert","addr:state":"AZ","addr:postcode":85233,"addr:housenumber":1363,"addr:street":"N Arizona Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-111.84033181641614,33.374177327590886]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Gilbert","addr:state":"AZ","addr:postcode":85295,"addr:housenumber":1967,"addr:street":"E Pecos Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-111.74866527354098,33.293824202467846]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Chandler","addr:state":"AZ","addr:postcode":85286,"addr:housenumber":222,"addr:street":"W Willis Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-111.84525711952172,33.28546437605697]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Crest Foods","addr:city":"Oklahoma City","addr:state":"OK","addr:postcode":73170,"addr:housenumber":10601,"addr:street":"S May Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-97.56803298156403,35.362215302115644]}
     }
     ]}
 

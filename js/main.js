@@ -132,7 +132,25 @@ require([
                 url: "png/Woodmans.png",
                 width: "70px",
                 height: "28px"
-            }           
+            }
+        }, {
+            value: "Save A Lot",
+            label: "Save A Lot",
+            symbol: {
+                type: "picture-marker",
+                url: "png/SaveALot.png",
+                width: "70px",
+                height: "37px"
+            }
+        }, {
+            value: "Crest Foods",
+            label: "Crest Foods",
+            symbol: {
+                type: "picture-marker",
+                url: "png/Crest.png",
+                width: "70px",
+                height: "29px"
+            }                     
         }, {
             value: "Kroger",
             label: "Kroger",
@@ -202,6 +220,20 @@ require([
                 type: "simple-fill",
                 color: [30,24,84]
             }
+        }, {
+            value: "Save A Lot",
+            label: "Save A Lot",
+            symbol: {
+                type: "simple-fill",
+                color: [18,55,125]
+            }
+        }, {
+            value: "Crest",
+            label: "Crest",
+            symbol: {
+                type: "simple-fill",
+                color: [223,180,2]
+            }        
         }, {
             value: "Safeway",
             label: "Safeway",
