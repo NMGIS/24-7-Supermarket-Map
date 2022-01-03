@@ -94,8 +94,8 @@ require([
             symbol: {
                 type: "picture-marker",
                 url: "png/Haggen.png",
-                width: "50px",
-                height: "11px"
+                width: "70px",
+                height: "16px"
             }
         }, {
             value: "Cub",
@@ -130,8 +130,8 @@ require([
             symbol: {
                 type: "picture-marker",
                 url: "png/Woodmans.png",
-                width: "50px",
-                height: "20px"
+                width: "70px",
+                height: "28px"
             }           
         }, {
             value: "Kroger",
