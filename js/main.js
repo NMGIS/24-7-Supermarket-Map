@@ -228,8 +228,8 @@ require([
                 color: [18,55,125]
             }
         }, {
-            value: "Crest",
-            label: "Crest",
+            value: "Crest Foods",
+            label: "Crest Foods",
             symbol: {
                 type: "simple-fill",
                 color: [223,180,2]
