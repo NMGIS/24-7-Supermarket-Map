@@ -537,6 +537,9 @@
         "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Las Vegas","addr:state":"NV","addr:postcode":89130,"addr:housenumber":6101,"addr:street":"N Decatur Blvd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-115.20836225070141,36.269773730041315]}
     },
     {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Henderson","addr:state":"NV","addr:postcode":89704,"addr:housenumber":80,"addr:street":"N Stephanie St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-115.0441335846269,36.03388356004737]}
+    },
+    {
         "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Reno","addr:state":"NV","addr:postcode":89511,"addr:housenumber":9750,"addr:street":"S Virginia St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-119.76829609780123,39.44179469549007]}
     },
     {
