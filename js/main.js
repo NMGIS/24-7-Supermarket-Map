@@ -76,8 +76,8 @@ require([
             symbol: {
                 type: "picture-marker",
                 url: "png/Safeway.png",
-                width: "50px",
-                height: "9px"
+                width: "70px",
+                height: "13px"
             }
         }, {
             value: "WinCo Foods",
@@ -150,6 +150,15 @@ require([
                 url: "png/Crest.png",
                 width: "70px",
                 height: "29px"
+            }
+        }, {
+            value: "Vons",
+            label: "Vons",
+            symbol: {
+                type: "picture-marker",
+                url: "png/Vons.png",
+                width: "50px",
+                height: "19px"
             }                     
         }, {
             value: "Kroger",

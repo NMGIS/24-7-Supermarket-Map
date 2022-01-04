@@ -652,6 +652,60 @@
     },
     {
         "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Billings","addr:state":"MT","addr:postcode":59102,"addr:housenumber":2424,"addr:street":"Central Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-108.57803628500794,45.76828014637423]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Vons","addr:city":"Burbank","addr:state":"CA","addr:postcode":91505,"addr:housenumber":301,"addr:street":"N Pass Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-118.34655389938982,34.15487628627967]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Vons","addr:city":"Mammoth Lakes","addr:state":"CA","addr:postcode":93546,"addr:housenumber":481,"addr:street":"Old Mammoth Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-118.96527252291412,37.638824125566195]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Zephyr Cove","addr:state":"NV","addr:postcode":89448,"addr:housenumber":212,"addr:street":"Elks Point Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-119.94373391610132,38.98616230508306]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Reno","addr:state":"NV","addr:postcode":89521,"addr:housenumber":1031,"addr:street":"Steamboat Pkwy","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-119.73856268727864,39.425159067592624]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Reno","addr:state":"NV","addr:postcode":89523,"addr:housenumber":5150,"addr:street":"Mae Anne Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-119.86709219419097,39.53084157094489]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Fallon","addr:state":"NV","addr:postcode":89406,"addr:housenumber":890,"addr:street":"W Williams Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-118.78710787017395,39.47716538967453]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Sparks","addr:state":"NV","addr:postcode":89434,"addr:housenumber":2808,"addr:street":"Vista Blvd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-119.70345234170443,39.555547331166636]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Save A Lot","addr:city":"Tampa","addr:state":"FL","addr:postcode":33617,"addr:housenumber":5014,"addr:street":"E Busch Blvd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-82.4012011633862,28.033993603979116]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Save A Lot","addr:city":"Lakeland","addr:state":"FL","addr:postcode":33815,"addr:housenumber":2021,"addr:street":"George Jenkins Blvd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-81.98895409982357,28.042908253803695]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Alexandria","addr:state":"VA","addr:postcode":22302,"addr:housenumber":3526,"addr:street":"King St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-77.08961806786836,38.82782209059392]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Alexandria","addr:state":"VA","addr:postcode":22307,"addr:housenumber":1624,"addr:street":"Belle View Blvd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-77.06078079912795,38.776451017181124]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Fairfax","addr:state":"VA","addr:postcode":22301,"addr:housenumber":3043,"addr:street":"Nutley St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-77.260944322946,38.87136731862098]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Safeway","addr:city":"Washington","addr:state":"DC","addr:postcode":20007,"addr:housenumber":1855,"addr:street":"Wisconsin Ave NW","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-77.06728567734594,38.916126825002856]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Giant Food","addr:city":"Alexandria","addr:state":"VA","addr:postcode":22315,"addr:housenumber":5870,"addr:street":"Kingstowne Blvd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-77.13701116835888,38.773028732976634]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Giant Food","addr:city":"McLean","addr:state":"VA","addr:postcode":22101,"addr:housenumber":1454,"addr:street":"Chain Bridge Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-77.18015217879487,38.9327856784278]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Giant Food","addr:city":"Bethesda","addr:state":"MD","addr:postcode":20814,"addr:housenumber":10400,"addr:street":"Old Georgetown Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-77.12762436032226,39.02625021281887]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Giant Food","addr:city":"Kensington","addr:state":"MD","addr:postcode":20895,"addr:housenumber":10541,"addr:street":"Connecticut Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-77.07532709369477,39.027989715461324]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Giant Food","addr:city":"Catonsville","addr:state":"MD","addr:postcode":21228,"addr:housenumber":6223,"addr:street":"Baltimore National Pike","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-76.75292118897306,39.28167072437783]}
     }
     ]}
 
