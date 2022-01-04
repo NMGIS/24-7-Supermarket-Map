@@ -706,7 +706,29 @@
     },
     {
         "type":"Feature","properties":{"name":"Giant Food","addr:city":"Catonsville","addr:state":"MD","addr:postcode":21228,"addr:housenumber":6223,"addr:street":"Baltimore National Pike","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-76.75292118897306,39.28167072437783]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Save A Lot","addr:city":"Philadelphia","addr:state":"PA","addr:postcode":19143,"addr:housenumber":5800,"addr:street":"Woodland Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-75.22466687255253,39.93189896383909]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Save A Lot","addr:city":"Philadelphia","addr:state":"PA","addr:postcode":19124,"addr:housenumber":390129,"addr:street":"M St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-75.1003675891775,40.00623087029519]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Save A Lot","addr:city":"Philadelphia","addr:state":"PA","addr:postcode":19139,"addr:housenumber":5601,"addr:street":"Vine St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-75.2330673935287,39.96661886234852]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Save A Lot","addr:city":"Philadelphia","addr:state":"PA","addr:postcode":19144,"addr:housenumber":5834,"addr:street":"Pulaski St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-75.18223199992059,40.031338604433145]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Morton Williams","addr:city":"New York","addr:state":"NY","addr:postcode":10021,"addr:housenumber":1331,"addr:street":"1st Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-73.95652059025588,40.76739742750835]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Morton Williams","addr:city":"New York","addr:state":"NY","addr:postcode":10021,"addr:housenumber":130,"addr:street":"Bleecker St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-73.99878353940628,40.727782117597876]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Morton Williams","addr:city":"New York","addr:state":"NY","addr:postcode":10019,"addr:housenumber":917,"addr:street":"9th Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-73.9852514503328,40.76907198594121]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Morton Williams","addr:city":"New York","addr:state":"NY","addr:postcode":10010,"addr:housenumber":313,"addr:street":"E 23rd St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-73.98011325890671,40.73783054900211]}
     }
     ]}
-
-

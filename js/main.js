@@ -159,7 +159,16 @@ require([
                 url: "png/Vons.png",
                 width: "50px",
                 height: "19px"
-            }                     
+            }
+        }, {
+            value: "Morton Williams",
+            label: "Morton Williams",
+            symbol: {
+                type: "picture-marker",
+                url: "png/MortonWilliams.png",
+                width: "50px",
+                height: "39px"
+            }                    
         }, {
             value: "Kroger",
             label: "Kroger",
@@ -234,7 +243,7 @@ require([
             label: "Save A Lot",
             symbol: {
                 type: "simple-fill",
-                color: [249,228,1]
+                color: [249,228,16]
             }
         }, {
             value: "Crest Foods",
@@ -242,6 +251,13 @@ require([
             symbol: {
                 type: "simple-fill",
                 color: [223,180,2]
+            }
+        }, {
+            value: "Morton Williams",
+            label: "Morton Williams",
+            symbol: {
+                type: "simple-fill",
+                color: [17,15,13]
             }        
         }, {
             value: "Safeway",
