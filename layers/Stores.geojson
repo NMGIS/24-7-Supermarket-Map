@@ -559,6 +559,99 @@
     },
     {
         "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Eugene","addr:state":"OR","addr:postcode":97402,"addr:housenumber":4275,"addr:street":"Barger Dr","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-123.16939798049866,44.086561767505934]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Corvallis","addr:state":"OR","addr:postcode":97330,"addr:housenumber":2335,"addr:street":"NW Kings Blvd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-123.2743401111982,44.590593798505196]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Albany","addr:state":"OR","addr:postcode":97321,"addr:housenumber":3100,"addr:street":"Pacific Blvd SE","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-123.06649598228063,44.63994792963327]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Independence","addr:state":"OR","addr:postcode":97351,"addr:housenumber":1737,"addr:street":"Monmouth Street","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-123.2146535689681,44.85019274906407]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Salem","addr:state":"OR","addr:postcode":97302,"addr:housenumber":4575,"addr:street":"Commercial St SE","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-123.03493860411785,44.887987845702455]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Salem","addr:state":"OR","addr:postcode":97317,"addr:housenumber":1240,"addr:street":"Lancaster Dr SE","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.97628288003247,44.913941996787436]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Keizer","addr:state":"OR","addr:postcode":97303,"addr:housenumber":5450,"addr:street":"River Rd N","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-123.02530615063849,45.00313516956425]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"McMinnville","addr:state":"OR","addr:postcode":97128,"addr:housenumber":2585,"addr:street":"NE Hwy 99 W","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-123.17218300568439,45.23062384350249]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Oregon City","addr:state":"OR","addr:postcode":97045,"addr:housenumber":19701,"addr:street":"Highway 213","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.58035186521282,45.3210590195617]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Happy Valley","addr:state":"OR","addr:postcode":97086,"addr:housenumber":11250,"addr:street":"SE 82nd Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.57771185503931,45.443686692570736]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Portland","addr:state":"OR","addr:postcode":97206,"addr:housenumber":7979,"addr:street":"SE Powell Blvd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.58098229539988,45.498426346656345]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Portland","addr:state":"OR","addr:postcode":97220,"addr:housenumber":1222,"addr:street":"NE 102nd Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.55639768303864,45.53114331874098]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Portland","addr:state":"OR","addr:postcode":97230,"addr:housenumber":1950,"addr:street":"NE 122nd Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.55639795008221,45.53114292533363]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Gresham","addr:state":"OR","addr:postcode":97030,"addr:housenumber":2511,"addr:street":"SE 1st St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.4076092241269,45.49851059347092]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Tigard","addr:state":"OR","addr:postcode":97223,"addr:housenumber":7501,"addr:street":"SW Dartmouth St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.75360772728389,45.43495568986465]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Beaverton","addr:state":"OR","addr:postcode":97005,"addr:housenumber":7501,"addr:street":"SW Cedar Hills Blvd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.80970699783707,45.49800449325346]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Hillsboro","addr:state":"OR","addr:postcode":97124,"addr:housenumber":7330,"addr:street":"NE Butler St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-122.90288399610783,45.53555200058432]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Hillsboro","addr:state":"OR","addr:postcode":97123,"addr:housenumber":1500,"addr:street":"SW Oak St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-123.00636234572708,45.51843714224041]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Ontario","addr:state":"OR","addr:postcode":97914,"addr:housenumber":1630,"addr:street":"E Idaho Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-116.94074019347146,44.02407884104047]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Logan","addr:state":"UT","addr:postcode":84341,"addr:housenumber":1341,"addr:street":"Main St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-111.83699302963406,41.75684361622441]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Ogden","addr:state":"UT","addr:postcode":84404,"addr:housenumber":205,"addr:street":"W 12th St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-111.98150293691545,41.24219102043205]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Roy","addr:state":"UT","addr:postcode":84067,"addr:housenumber":6060,"addr:street":"S 3500 W","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-112.06220097222378,41.15323190757877]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Layton","addr:state":"UT","addr:postcode":84041,"addr:housenumber":200,"addr:street":"S Fort Ln","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-111.95941641415443,41.05800553776138]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"South Salt Lake","addr:state":"UT","addr:postcode":84115,"addr:housenumber":2193,"addr:street":"S Main St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-111.89027159190073,40.72390297282834]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"West Valley City","addr:state":"UT","addr:postcode":94120,"addr:housenumber":2572,"addr:street":"S 5600 W","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-112.02634989008352,40.71377437862704]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Midvale","addr:state":"UT","addr:postcode":84047,"addr:housenumber":7020,"addr:street":"S 700 W","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-111.91128363897482,40.6240030817991]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Herriman","addr:state":"UT","addr:postcode":84096,"addr:housenumber":11969,"addr:street":"S Carlsbad Way","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-112.01415534583569,40.53362260265633]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Orem","addr:state":"UT","addr:postcode":84057,"addr:housenumber":895,"addr:street":"N 980 W","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-111.72062256354441,40.31426396792798]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Missoula","addr:state":"MT","addr:postcode":59801,"addr:housenumber":2510,"addr:street":"S Reserve St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-114.03808358260757,46.847969019571835]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Helena","addr:state":"MT","addr:postcode":59601,"addr:housenumber":2995,"addr:street":"N Sanders St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-112.0126535764719,46.61443145997435]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Bozeman","addr:state":"MT","addr:postcode":59718,"addr:housenumber":2913,"addr:street":"Max Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-111.0712189229489,45.70830409752819]}
+    },
+    {
+        "type":"Feature","properties":{"name":"WinCo Foods","addr:city":"Billings","addr:state":"MT","addr:postcode":59102,"addr:housenumber":2424,"addr:street":"Central Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-108.57803628500794,45.76828014637423]}
     }
     ]}
 
