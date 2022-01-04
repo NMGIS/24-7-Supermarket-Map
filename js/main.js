@@ -199,7 +199,7 @@ require([
             label: "Cub",
             symbol: {
                 type: "simple-fill",
-                color: [117,117,117]
+                color: [209,169,214]
             }
         }, {
             value: "Marsh's Sun Fresh Market",
@@ -234,7 +234,7 @@ require([
             label: "Save A Lot",
             symbol: {
                 type: "simple-fill",
-                color: [18,55,125]
+                color: [249,228,1]
             }
         }, {
             value: "Crest Foods",
