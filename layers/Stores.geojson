@@ -729,6 +729,12 @@
         "type":"Feature","properties":{"name":"Morton Williams","addr:city":"New York","addr:state":"NY","addr:postcode":10019,"addr:housenumber":917,"addr:street":"9th Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-73.9852514503328,40.76907198594121]}
     },
     {
-        "type":"Feature","properties":{"name":"Morton Williams","addr:city":"New York","addr:state":"NY","addr:postcode":10010,"addr:housenumber":313,"addr:street":"E 23rd St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-73.98011325890671,40.73783054900211]}
+        "type":"Feature","properties":{"name":"Morton Williams","addr:city":"New York","addr:state":"NY","addr:postcode":10019,"addr:housenumber":140,"addr:street":"W 57th St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-73.97891557209549,40.76474398582561]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Morton Williams","addr:city":"New York","addr:state":"NY","addr:postcode":10010,"addr:housenumber":278,"addr:street":"Park Ave S","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-73.98725382042174,40.7394124022261]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Morton Williams","addr:city":"New York","addr:state":"NY","addr:postcode":10027,"addr:housenumber":2941,"addr:street":"Broadway","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-73.96452198172214,40.80762728354186]}
     }
     ]}
