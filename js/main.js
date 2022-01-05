@@ -177,7 +177,16 @@ require([
                 url: "png/SuperSaver.png",
                 width: "60px",
                 height: "12px"
-            }                    
+            }
+        }, {
+            value: "Larrys Foodland",
+            label: "Larrys Foodland",
+            symbol: {
+                type: "picture-marker",
+                url: "png/LarrysFoodLand.png",
+                width: "70px",
+                height: "12px"
+            }                         
         }, {
             value: "Kroger",
             label: "Kroger",

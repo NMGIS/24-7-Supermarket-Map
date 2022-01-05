@@ -787,5 +787,11 @@
     },
     {
         "type":"Feature","properties":{"name":"Super Saver","addr:city":"Columbus","addr:state":"NE","addr:postcode":68601,"addr:housenumber":3318,"addr:street":"23rd St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-97.36904344415859,41.43963358328092]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Save A Lot","addr:city":"Garfield Heights","addr:state":"OH","addr:postcode":44125,"addr:housenumber":12782,"addr:street":"Rockside Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-81.5961348784979,41.399636604989844]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Larrys Foodland","addr:city":"Livonia","addr:state":"MI","addr:postcode":48150,"addr:housenumber":33151,"addr:street":"Plymouth RD","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-83.37020089269394,42.36709532147339]}
     }
     ]}
