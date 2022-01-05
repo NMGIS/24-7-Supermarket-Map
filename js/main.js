@@ -168,6 +168,15 @@ require([
                 url: "png/MortonWilliams.png",
                 width: "50px",
                 height: "39px"
+            }
+        }, {
+            value: "Super Saver",
+            label: "Super Saver",
+            symbol: {
+                type: "picture-marker",
+                url: "png/SuperSaver.png",
+                width: "60px",
+                height: "12px"
             }                    
         }, {
             value: "Kroger",
@@ -237,6 +246,13 @@ require([
             symbol: {
                 type: "simple-fill",
                 color: [30,24,84]
+            }
+        }, {
+            value: "Super Saver",
+            label: "Super Saver",
+            symbol: {
+                type: "simple-fill",
+                color: [255,242,0]
             }
         }, {
             value: "Save A Lot",

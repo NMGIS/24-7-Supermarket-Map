@@ -736,5 +736,41 @@
     },
     {
         "type":"Feature","properties":{"name":"Morton Williams","addr:city":"New York","addr:state":"NY","addr:postcode":10027,"addr:housenumber":2941,"addr:street":"Broadway","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-73.96452198172214,40.80762728354186]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Woodman's","addr:city":"Beloit","addr:state":"WI","addr:postcode":53511,"addr:housenumber":1877,"addr:street":"S Madison Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-89.07082031715873,42.524654324214026]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Woodman's","addr:city":"Janesville","addr:state":"WI","addr:postcode":53545,"addr:housenumber":2819,"addr:street":"N Lexington Dr","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-88.99612018890387,42.716362380284984]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Woodman's","addr:city":"Madison","addr:state":"WI","addr:postcode":53719,"addr:housenumber":725,"addr:street":"S Gammon Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-89.50078962810372,43.048714928965495]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Woodman's","addr:city":"Waukesha","addr:state":"WI","addr:postcode":53186,"addr:housenumber":1600,"addr:street":"E Main St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-88.20449515221134,43.02215545859613]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Woodman's","addr:city":"Sun Prarie","addr:state":"WI","addr:postcode":53590,"addr:housenumber":1099,"addr:street":"S Grand Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-89.26692468225323,43.16454600904527]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Woodman's","addr:city":"Kenosha","addr:state":"WI","addr:postcode":53142,"addr:housenumber":7145,"addr:street":"120th Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-87.94788098225325,42.570320037040474]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Woodman's","addr:city":"Madison","addr:state":"WI","addr:postcode":53714,"addr:housenumber":3817,"addr:street":"Milwaukee","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-89.31895883644853,43.096803413584745]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Woodman's","addr:city":"Oak Creek","addr:state":"WI","addr:postcode":53154,"addr:housenumber":8131,"addr:street":"S Howell Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-87.9153881984874,42.89699670552535]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Woodman's","addr:city":"Appleton","addr:state":"WI","addr:postcode":54914,"addr:housenumber":595,"addr:street":"N Westhill Blvd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-88.46351336559476,44.26747885901466]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Woodman's","addr:city":"Green Bay","addr:state":"WI","addr:postcode":54303,"addr:housenumber":2400,"addr:street":"Duck Creek Pkwy","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-88.07711730813205,44.54348363714514]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Woodman's","addr:city":"Altoona","addr:state":"WI","addr:postcode":54720,"addr:housenumber":2855,"addr:street":"Woodman Dr","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-91.45734877158701,44.81581779278751]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Super Saver","addr:city":"Columbus","addr:state":"NE","addr:postcode":68601,"addr:housenumber":3318,"addr:street":"23rd St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-97.36904816379136,41.43946744130641]}
     }
     ]}
