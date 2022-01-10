@@ -985,8 +985,5 @@
     },
     {
         "type":"Feature","properties":{"name":"Food Bazaar","addr:city":"Queens","addr:state":"NY","addr:postcode":11101,"addr:housenumber":4202,"addr:street":"Northern Blvd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-73.92153073320891,40.75212688094377]}
-    },
-    {
-        "type":"Feature","properties":{"name":"City Fresh Market","addr:city":"Brooklyn","addr:state":"NY","addr:postcode":11237,"addr:housenumber":229,"addr:street":"Knickerbocker Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-73.925643665465,40.76603141849254645]}
     }
     ]}
