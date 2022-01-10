@@ -290,7 +290,7 @@ require([
             label: "Super Saver",
             symbol: {
                 type: "simple-fill",
-                color: [255,242,0]
+                color: [253,72,33]
             }
         }, {
             value: "Save A Lot",
@@ -304,7 +304,7 @@ require([
             label: "Crest Foods",
             symbol: {
                 type: "simple-fill",
-                color: [223,180,2]
+                color: [33,253,182]
             }
         }, {
             value: "City Fresh Market",
@@ -339,7 +339,7 @@ require([
             label: "Safeway",
             symbol: {
                 type: "simple-fill",
-                color: [215,43,49]
+                color: [255,152,152]
             }
         }]
     };
