@@ -177,8 +177,8 @@ require([
             symbol: {
                 type: "picture-marker",
                 url: "png/Westside.png",
-                width: "60px",
-                height: "20px"
+                width: "70px",
+                height: "23px"
             }
         }, {
             value: "City Fresh Market",
@@ -197,6 +197,15 @@ require([
                 url: "png/SuperSaver.png",
                 width: "60px",
                 height: "12px"
+            }
+        }, {
+            value: "Food Bazaar",
+            label: "Food Bazaar",
+            symbol: {
+                type: "picture-marker",
+                url: "png/FoodBazaar.png",
+                width: "50px",
+                height: "25px"
             }
         }, {
             value: "Larrys Foodland",
@@ -317,7 +326,14 @@ require([
             symbol: {
                 type: "simple-fill",
                 color: [17,15,13]
-            } */      
+            } */ 
+/*          }, {
+            value: "Food Bazaar",
+            label: "Food Bazaar",
+            symbol: {
+                type: "simple-fill",
+                color: [17,15,13]
+            } */       
         }, {
             value: "Safeway",
             label: "Safeway",

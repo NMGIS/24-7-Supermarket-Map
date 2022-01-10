@@ -979,5 +979,11 @@
     },
     {
         "type":"Feature","properties":{"name":"City Fresh Market","addr:city":"Corona","addr:state":"NY","addr:postcode":11368,"addr:housenumber":3907,"addr:street":"103rd St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-73.86286571990576,40.7504614277156]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Food Bazaar","addr:city":"Queens","addr:state":"NY","addr:postcode":11372,"addr:housenumber":3420,"addr:street":"Junction Blvd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-73.8727025538236,40.754347181696005]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Food Bazaar","addr:city":"Queens","addr:state":"NY","addr:postcode":11101,"addr:housenumber":4202,"addr:street":"Northern Blvd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-73.92153073320891,40.75212688094377]}
     }
     ]}
