@@ -877,5 +877,44 @@
     },
     {
         "type":"Feature","properties":{"name":"Cub","addr:city":"Plymouth","addr:state":"MN","addr:postcode":55442,"addr:housenumber":4445,"addr:street":"Nathan Ln N","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.40950743873333,45.03549830430029]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"New Brighton","addr:state":"MN","addr:postcode":55112,"addr:housenumber":2600,"addr:street":"Rice Creek Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.22061829108448,45.08319889150937]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Brooklyn Park","addr:state":"MN","addr:postcode":55445,"addr:housenumber":9655,"addr:street":"Colorado Ln N","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.36055030573513,45.131343282175685]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Blaine","addr:state":"MN","addr:postcode":55434,"addr:housenumber":585,"addr:street":"Northtown Dr NE","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.22061880624311,45.08319441723359]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Blaine","addr:state":"MN","addr:postcode":55449,"addr:housenumber":4205,"addr:street":"Pheasant Ridge Dr NE","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.16215216396002,45.16309191190792]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Blaine","addr:state":"MN","addr:postcode":55434,"addr:housenumber":10881,"addr:street":"University Ave NE","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.26441965158396,45.16716168969925]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Blaine","addr:state":"MN","addr:postcode":55434,"addr:housenumber":12595,"addr:street":"Central Ave NE","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.23219918365376,45.20007569307207]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Coon Rapids","addr:state":"MN","addr:postcode":55433,"addr:housenumber":2050,"addr:street":"Northdale Blvd NW","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.31851325134046,45.18000160467226]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Coon Rapids","addr:state":"MN","addr:postcode":55448,"addr:housenumber":12900,"addr:street":"Riverdale Dr NW","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.36207364869452,45.20559772374151]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Arden Hills","addr:state":"MN","addr:postcode":55126,"addr:housenumber":3717,"addr:street":"Lexington Ave N","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.14859224591427,45.05307643994745]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"White Bear Lake","addr:state":"MN","addr:postcode":55110,"addr:housenumber":1920,"addr:street":"Buerkle Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.02092378341406,45.03884864843589]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Maplewood","addr:state":"MN","addr:postcode":55109,"addr:housenumber":2390,"addr:street":"White Bear Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.01697576125731,45.014334495190596]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"St Paul","addr:state":"MN","addr:postcode":55106,"addr:housenumber":1177,"addr:street":"Clarence St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.04480180568387,44.976459376017125]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Maplewood","addr:state":"MN","addr:postcode":55117,"addr:housenumber":100,"addr:street":"Country B Rd W","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.10370226798011,45.005200017134136]}
     }
     ]}
