@@ -172,6 +172,15 @@ require([
                 height: "39px"
             }
         }, {
+            value: "Westside Market",
+            label: "Westside Market",
+            symbol: {
+                type: "picture-marker",
+                url: "png/Westside.png",
+                width: "60px",
+                height: "20px"
+            }
+        }, {
             value: "Super Saver",
             label: "Super Saver",
             symbol: {
@@ -282,6 +291,13 @@ require([
         }, {
             value: "Morton Williams",
             label: "Morton Williams",
+            symbol: {
+                type: "simple-fill",
+                color: [17,15,13]
+            }
+        }, {
+            value: "Westside Market",
+            label: "Westside Market",
             symbol: {
                 type: "simple-fill",
                 color: [17,15,13]

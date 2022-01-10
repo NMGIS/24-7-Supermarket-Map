@@ -949,5 +949,17 @@
     },
     {
         "type":"Feature","properties":{"name":"Cub","addr:city":"Brooklyn Park","addr:state":"MN","addr:postcode":55428,"addr:housenumber":7555,"addr:street":"W Broadway Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.37947781151055,45.09183746151958]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Westside Market","addr:city":"New York","addr:state":"NY","addr:postcode":10003,"addr:housenumber":84,"addr:street":"3rd Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-73.9884794573895,40.731830109854116]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Westside Market","addr:city":"New York","addr:state":"NY","addr:postcode":10025,"addr:housenumber":2589,"addr:street":"Broadway","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-73.97125908001816,40.79587824652041]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Westside Market","addr:city":"New York","addr:state":"NY","addr:postcode":10025,"addr:housenumber":2589,"addr:street":"Broadway","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-73.97125908001816,40.79587824652041]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Westside Market","addr:city":"New York","addr:state":"NY","addr:postcode":10025,"addr:housenumber":2840,"addr:street":"Broadway","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-73.96624823543344,40.80428537852313]}
     }
     ]}
