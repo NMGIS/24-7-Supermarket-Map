@@ -961,5 +961,23 @@
     },
     {
         "type":"Feature","properties":{"name":"Westside Market","addr:city":"New York","addr:state":"NY","addr:postcode":10025,"addr:housenumber":2840,"addr:street":"Broadway","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-73.96624823543344,40.80428537852313]}
+    },
+    {
+        "type":"Feature","properties":{"name":"City Fresh Market","addr:city":"New York","addr:state":"NY","addr:postcode":10035,"addr:housenumber":2212,"addr:street":"3rd Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-73.93807544260396,40.800939746460536]}
+    },
+    {
+        "type":"Feature","properties":{"name":"City Fresh Market","addr:city":"Brooklyn","addr:state":"NY","addr:postcode":11237,"addr:housenumber":229,"addr:street":"Knickerbocker Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-73.9254363071157,40.703141849160204]}
+    },
+    {
+        "type":"Feature","properties":{"name":"City Fresh Market","addr:city":"Astoria","addr:state":"NY","addr:postcode":11106,"addr:housenumber":2115,"addr:street":"Broadway","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-73.93035847750033,40.7654624449781]}
+    },
+    {
+        "type":"Feature","properties":{"name":"City Fresh Market","addr:city":"New York","addr:state":"NY","addr:postcode":10029,"addr:housenumber":125,"addr:street":"E 116th St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-73.94191447843788,40.798925065763875]}
+    },
+    {
+        "type":"Feature","properties":{"name":"City Fresh Market","addr:city":"Union City","addr:state":"NJ","addr:postcode":7087,"addr:housenumber":518,"addr:street":"32nd St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-74.02956837762477,40.77275912065223]}
+    },
+    {
+        "type":"Feature","properties":{"name":"City Fresh Market","addr:city":"Corona","addr:state":"NY","addr:postcode":11368,"addr:housenumber":3907,"addr:street":"103rd St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-73.86286571990576,40.7504614277156]}
     }
     ]}

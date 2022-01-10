@@ -181,6 +181,15 @@ require([
                 height: "20px"
             }
         }, {
+            value: "City Fresh Market",
+            label: "City Fresh Market",
+            symbol: {
+                type: "picture-marker",
+                url: "png/CityFresh.png",
+                width: "50px",
+                height: "30px"
+            }
+        }, {
             value: "Super Saver",
             label: "Super Saver",
             symbol: {
@@ -287,6 +296,13 @@ require([
             symbol: {
                 type: "simple-fill",
                 color: [223,180,2]
+            }
+        }, {
+            value: "City Fresh Market",
+            label: "City Fresh Market",
+            symbol: {
+                type: "simple-fill",
+                color: [124,183,62]
             }
         }, {
             value: "Morton Williams",
