@@ -295,13 +295,13 @@ require([
                 type: "simple-fill",
                 color: [17,15,13]
             }
-        }, {
+/*         }, {
             value: "Westside Market",
             label: "Westside Market",
             symbol: {
                 type: "simple-fill",
                 color: [17,15,13]
-            }      
+            } */      
         }, {
             value: "Safeway",
             label: "Safeway",
