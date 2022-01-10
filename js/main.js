@@ -215,6 +215,15 @@ require([
                 url: "png/LarrysFoodLand.png",
                 width: "70px",
                 height: "12px"
+            }
+        }, {
+            value: "Shop Rite",
+            label: "Shop Rite",
+            symbol: {
+                type: "picture-marker",
+                url: "png/ShopRite.png",
+                width: "50px",
+                height: "41px"
             }                         
         }, {
             value: "Kroger",
@@ -312,6 +321,13 @@ require([
             symbol: {
                 type: "simple-fill",
                 color: [124,183,62]
+            }
+        }, {
+            value: "Shop Rite",
+            label: "Shop Rite",
+            symbol: {
+                type: "simple-fill",
+                color: [125,163,146]
             }
         }, {
             value: "Morton Williams",

@@ -985,5 +985,20 @@
     },
     {
         "type":"Feature","properties":{"name":"Food Bazaar","addr:city":"Queens","addr:state":"NY","addr:postcode":11101,"addr:housenumber":4202,"addr:street":"Northern Blvd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-73.92153073320891,40.75212688094377]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Shop Rite","addr:city":"New Hyde Park","addr:state":"NY","addr:postcode":11042,"addr:housenumber":2335,"addr:street":"New Hyde Park Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-73.68994920597692,40.75816805617711]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Shop Rite","addr:city":"Brooklyn","addr:state":"NY","addr:postcode":11230,"addr:housenumber":1080,"addr:street":"McDonald Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-73.97701163700667,40.62679757528718]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Shop Rite","addr:city":"Englewood","addr:state":"NY","addr:postcode":7631,"addr:housenumber":40,"addr:street":"Nathaniel Pl","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-73.97546084190478,40.896779640715806]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Shop Rite","addr:city":"Rochelle Park","addr:state":"NY","addr:postcode":7662,"addr:housenumber":220,"addr:street":"W Passaic St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-74.08078692936384,40.91497330824862]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Shop Rite","addr:city":"Clifton","addr:state":"NY","addr:postcode":7011,"addr:housenumber":895,"addr:street":"Paulison Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-74.15531773635473,40.87192579506295]}
     }
     ]}
