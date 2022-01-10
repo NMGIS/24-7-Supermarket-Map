@@ -793,5 +793,89 @@
     },
     {
         "type":"Feature","properties":{"name":"Larrys Foodland","addr:city":"Livonia","addr:state":"MI","addr:postcode":48150,"addr:housenumber":33151,"addr:street":"Plymouth RD","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-83.37020089269394,42.36709532147339]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Bloomington","addr:state":"MN","addr:postcode":55420,"addr:housenumber":8421,"addr:street":"Lyndale Ave S","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.28527635070685,44.850837351998415]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Chanhassen","addr:state":"MN","addr:postcode":55317,"addr:housenumber":7900,"addr:street":"Market Blvd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.53912442503311,44.860192454726146]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Blaine","addr:state":"MN","addr:postcode":55434,"addr:housenumber":12595,"addr:street":"Central Ave NE","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.2322028382776,45.200070774385075]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Maple Grove","addr:state":"MN","addr:postcode":55369,"addr:housenumber":8150,"addr:street":"Wedgewood Ln","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.44767869772686,45.102673629004585]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Shakopee","addr:state":"MN","addr:postcode":55379,"addr:housenumber":1198,"addr:street":"Vierling Dr E","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.50931364608672,44.779897863569026]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Burnsville","addr:state":"MN","addr:postcode":55337,"addr:housenumber":300,"addr:street":"E Travelers Trail","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.27513925006075,44.77714293523509]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Eagan","addr:state":"MN","addr:postcode":55123,"addr:housenumber":1276,"addr:street":"Town Centre Dr","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.16050287372789,44.831697658777635]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Oakdale","addr:state":"MN","addr:postcode":55128,"addr:housenumber":7191,"addr:street":"10th St N","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-92.96077027278893,44.96166057834021]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Eagan","addr:state":"MN","addr:postcode":55122,"addr:housenumber":1940,"addr:street":"Cliff Lake Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.20356677898852,44.795211076458]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Crystal","addr:state":"MN","addr:postcode":55422,"addr:housenumber":5301,"addr:street":"36th Ave N","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.34676157743084,45.0191743031286]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Minneapolis","addr:state":"MN","addr:postcode":55408,"addr:housenumber":1104,"addr:street":"Lagoon Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.29381500587988,44.949601063905135]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Minneapolis","addr:state":"MN","addr:postcode":55406,"addr:housenumber":4601,"addr:street":"Snelling Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.21587952604173,44.91887193236614]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"St Paul","addr:state":"MN","addr:postcode":55104,"addr:housenumber":1440,"addr:street":"University Ave W","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.16084207075797,44.95280751169871]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Fridley","addr:state":"MN","addr:postcode":55432,"addr:housenumber":250,"addr:street":"57th Ave NE","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.2667619387373,45.07005499171201]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Rosemount","addr:state":"MN","addr:postcode":55068,"addr:housenumber":3784,"addr:street":"150th St W","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.14236652451018,44.73012568508177]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Lakeville","addr:state":"MN","addr:postcode":55044,"addr:housenumber":20250,"addr:street":"Heritage Dr","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.25155922420527,44.65889361439736]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Lakeville","addr:state":"MN","addr:postcode":55044,"addr:housenumber":17756,"addr:street":"Kenwood Trl","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.28130908531473,44.69238732426923]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Lakeville","addr:state":"MN","addr:postcode":55044,"addr:housenumber":7435,"addr:street":"179th St W","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.21487760481556,44.692626306416955]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Apple Valley","addr:state":"MN","addr:postcode":55124,"addr:housenumber":15350,"addr:street":"Cedar Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.21598051647712,44.72639390578182]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Savage","addr:state":"MN","addr:postcode":55378,"addr:housenumber":14075,"addr:street":"State Hwy 13","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.37757331192978,44.748620400810296]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Burnsville","addr:state":"MN","addr:postcode":55337,"addr:housenumber":1750,"addr:street":"County Rd 42","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.30063891033203,44.747800433547965]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Shorewood","addr:state":"MN","addr:postcode":55331,"addr:housenumber":23800,"addr:street":"MN-7","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.5812302305216,44.893186582487786]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Inver Grove Heights","addr:state":"MN","addr:postcode":55076,"addr:housenumber":7850,"addr:street":"Cahill Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.04113066450795,44.83536335204683]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Cottage Grove","addr:state":"MN","addr:postcode":55016,"addr:housenumber":8690,"addr:street":"E Point Douglas Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-92.92993326244665,44.81828613047236]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Hastings","addr:state":"MN","addr:postcode":55033,"addr:housenumber":1729,"addr:street":"Market Blvd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-92.89195586285744,44.73686867627521]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Stillwater","addr:state":"MN","addr:postcode":55082,"addr:housenumber":1801,"addr:street":"Market Dr","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-92.83836038303771,45.039194709982006]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Plymouth","addr:state":"MN","addr:postcode":55447,"addr:housenumber":3550,"addr:street":"Vicksburg Ln N","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.47906645895888,45.02118718175947]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Plymouth","addr:state":"MN","addr:postcode":55442,"addr:housenumber":4445,"addr:street":"Nathan Ln N","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.40950743873333,45.03549830430029]}
     }
     ]}
