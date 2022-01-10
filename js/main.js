@@ -3,7 +3,9 @@ require([
     "esri/views/MapView",
     "esri/layers/GeoJSONLayer",
     "esri/widgets/Home",
-], function (Map, MapView, GeoJSONLayer, Home) {
+    "esri/widgets/Legend",
+    "esri/core/watchUtils"
+], function (Map, MapView, GeoJSONLayer, Home, Legend, watchUtils) {
 
     const url =
         "layers/Stores.geojson";
@@ -202,11 +204,11 @@ require([
     const StatesRenderer = {
         type: "unique-value",
         field: "name",
-        defaultSymbol: {
+/*         defaultSymbol: {
             type: "simple-fill",
             color: "#b2b2b2", // light-gray
             size: "10px"
-        },
+        }, */
         uniqueValueInfos: [{
             value: "Super 1 Foods",
             label: "Super 1 Foods",
@@ -283,7 +285,7 @@ require([
             symbol: {
                 type: "simple-fill",
                 color: [17,15,13]
-            }        
+            }      
         }, {
             value: "Safeway",
             label: "Safeway",
@@ -302,14 +304,14 @@ require([
         url: url,
         copyright: "",
         popupTemplate: template,
-        minScale: 10000000,
+        minScale: 18489297,
         renderer: uvrRenderer
     });
 
     const geojsonlayer2 = new GeoJSONLayer({
         url: url2,
         copyright: "",
-        maxScale: 10000000,
+        maxScale: 1.8489297737236E7,
         opacity: 0.5,
         renderer: StatesRenderer
     });
@@ -333,6 +335,25 @@ require([
         view: view,
     });
 
+    let legend = new Legend({
+        view: view,
+        style: "card",
+        layerInfos :[
+            {
+                layer: geojsonlayer2,
+                title: "Dominate Supermarket"
+            }
+        ]
+
+      });
+
     view.ui.add(homeWidget, "top-left")
 
+    watchUtils.whenTrue(view, "stationary", function() {
+        if (view.scale >= 1.8489297737236E7){
+            view.ui.add(legend, "bottom-left");
+        } else {
+            view.ui.remove(legend, "bottom-left");
+        }
+      })
 });
