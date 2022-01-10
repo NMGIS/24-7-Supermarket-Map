@@ -828,7 +828,7 @@
         "type":"Feature","properties":{"name":"Cub","addr:city":"Minneapolis","addr:state":"MN","addr:postcode":55408,"addr:housenumber":1104,"addr:street":"Lagoon Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.29381500587988,44.949601063905135]}
     },
     {
-        "type":"Feature","properties":{"name":"Cub","addr:city":"Minneapolis","addr:state":"MN","addr:postcode":55406,"addr:housenumber":4601,"addr:street":"Snelling Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.21587952604173,44.91887193236614]}
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Minneapolis","addr:state":"MN","addr:postcode":55406,"addr:housenumber":4601,"addr:street":"Snelling Ave S","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.21587952604173,44.91887193236614]}
     },
     {
         "type":"Feature","properties":{"name":"Cub","addr:city":"St Paul","addr:state":"MN","addr:postcode":55104,"addr:housenumber":1440,"addr:street":"University Ave W","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.16084207075797,44.95280751169871]}
@@ -915,6 +915,39 @@
         "type":"Feature","properties":{"name":"Cub","addr:city":"St Paul","addr:state":"MN","addr:postcode":55106,"addr:housenumber":1177,"addr:street":"Clarence St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.04480180568387,44.976459376017125]}
     },
     {
-        "type":"Feature","properties":{"name":"Cub","addr:city":"Maplewood","addr:state":"MN","addr:postcode":55117,"addr:housenumber":100,"addr:street":"Country B Rd W","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.10370226798011,45.005200017134136]}
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Maplewood","addr:state":"MN","addr:postcode":55117,"addr:housenumber":100,"addr:street":"W Country B Rd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.10370226798011,45.005200017134136]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"St Paul","addr:state":"MN","addr:postcode":55118,"addr:housenumber":2001,"addr:street":"S Robert St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.08318431777586,44.88556212167814]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Rochester","addr:state":"MN","addr:postcode":55904,"addr:housenumber":1021,"addr:street":"15th Ave SE","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-92.44481102779854,44.00977157541185]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"St Anthony","addr:state":"MN","addr:postcode":55421,"addr:housenumber":3930,"addr:street":"Silver Lake Rd NE","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.22179643014366,45.04010036096875]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"St Louis Park","addr:state":"MN","addr:postcode":55416,"addr:housenumber":5370,"addr:street":"W 16th St","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.34895649324658,44.968082194166044]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Monticello","addr:state":"MN","addr:postcode":55362,"addr:housenumber":216,"addr:street":"7th St W","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.80022048940722,45.3002733454612]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Northfield","addr:state":"MN","addr:postcode":55057,"addr:housenumber":2423,"addr:street":"Hwy 3 S","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.18758990746474,44.432585331446575]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Forest Lake","addr:state":"MN","addr:postcode":55025,"addr:housenumber":2013,"addr:street":"W Broadway Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.01083375824487,45.28307320780131]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Mankato","addr:state":"MN","addr:postcode":56001,"addr:housenumber":1200,"addr:street":"S Riverfront Dr","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-94.01724100499406,44.16063899522717]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Cambridge","addr:state":"MN","addr:postcode":55008,"addr:housenumber":100,"addr:street":"Opportunity Blvd","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.20256722291596,45.57413022351392]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Champlin","addr:state":"MN","addr:postcode":55316,"addr:housenumber":8600,"addr:street":"114th Ave N","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.38919171458741,45.160574094172816]}
+    },
+    {
+        "type":"Feature","properties":{"name":"Cub","addr:city":"Brooklyn Park","addr:state":"MN","addr:postcode":55428,"addr:housenumber":7555,"addr:street":"W Broadway Ave","shop":"supermarket"},"geometry":{"type":"Point","coordinates":[-93.37947781151055,45.09183746151958]}
     }
     ]}
