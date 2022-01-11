@@ -327,7 +327,7 @@ require([
             label: "Shop Rite",
             symbol: {
                 type: "simple-fill",
-                color: [125,163,146]
+                color: [255,159,5]
             }
         }, {
             value: "Morton Williams",
