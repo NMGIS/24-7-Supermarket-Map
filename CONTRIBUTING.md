@@ -48,7 +48,7 @@
 
 - Create a branch
 
--Make commits to main.js in the following style
+- Make commits to main.js in the following style
 
             {
             value: "",
