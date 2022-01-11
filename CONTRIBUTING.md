@@ -59,4 +59,4 @@
             }
         },
 
--sbumit a pull request detailing added store
+- Submit a pull request detailing added store
