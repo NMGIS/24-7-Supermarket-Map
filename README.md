@@ -1,6 +1,7 @@
 # 24/7 Supermarket Map
 
 - Mapping 24/7 Supermarket locations within the contiguous Unites States
+- Application displays indivudal point location (as a GeoJSON following OSM schema) & dominate supermarket within each state
 
 # What is needed?
 
