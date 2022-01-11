@@ -59,4 +59,4 @@
             }
         },
 
-- Submit a pull request detailing added store
+- Submit a pull request detailing the added store
