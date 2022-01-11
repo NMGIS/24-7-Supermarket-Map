@@ -31,15 +31,30 @@
 
 - Make commits to main.js in the following style
 
-            {
-            value: "", //add
-            label: "", //add
+        }, {
+            value: "",
+            label: "",
             symbol: {
                 type: "picture-marker",
-                url: "png/", //add
-                width: "50px",
-                height: "" //add 
+                url: "",
+                width: "",
+                height: ""
             }
-            },
 
 - Submit a Pull Request, detailing added PNG
+
+## Adding a symbology color to the StatesCount.GeoJSON
+
+- Create a branch
+
+-Make commits to main.js in the following style
+
+        }, {
+            value: "",
+            label: "",
+            symbol: {
+                type: "simple-fill",
+                color: [R,G,B]
+            }
+
+-sbumit a pull request detailing added store
