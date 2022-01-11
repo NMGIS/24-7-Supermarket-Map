@@ -1,7 +1,5 @@
 # How to Contribute
 
-- Trying to build a database of 24/7 in-person shopping
-
 - coordinate location and several attributes are needed
     - Attributes follow OSM schema
 
@@ -23,9 +21,7 @@
 
 - Create a branch
 
-- png must be 50px by Xpx size
-
-- add to png folder
+- add to a png folder
 
 - Submit pull request
 
