@@ -7,6 +7,8 @@
 
 1. GeoJSON data
 2. PNG logos
+3. Any improvements to the application are welcome
+4. Alaska and Hawaii data can be added
 
 
 # Contributions
