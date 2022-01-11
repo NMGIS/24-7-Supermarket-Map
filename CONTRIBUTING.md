@@ -31,7 +31,7 @@
 
 - Make commits to main.js in the following style
 
-        }, {
+            {
             value: "",
             label: "",
             symbol: {
@@ -39,7 +39,8 @@
                 url: "",
                 width: "",
                 height: ""
-            }
+            }                         
+        },
 
 - Submit a Pull Request, detailing added PNG
 
@@ -49,12 +50,13 @@
 
 -Make commits to main.js in the following style
 
-        }, {
+            {
             value: "",
             label: "",
             symbol: {
                 type: "simple-fill",
                 color: [R,G,B]
             }
+        },
 
 -sbumit a pull request detailing added store
