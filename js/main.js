@@ -405,7 +405,7 @@ require([
         layerInfos :[
             {
                 layer: geojsonlayer2,
-                title: "Dominate Supermarket"
+                title: "Dominate 24/7 Supermarket"
             }
         ]
 
