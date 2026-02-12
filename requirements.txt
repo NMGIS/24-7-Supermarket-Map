@@ -2,5 +2,5 @@
 # $ conda create --name <env> --file <this file>
 # platform: linux-64
 pandas==1.3.4
-geopandas==0.9.0
+geopandas==1.1.2
 rtree==0.9.7
